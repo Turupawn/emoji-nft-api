@@ -1,1 +1,19 @@
-{"name":"Emoji#2669","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2669.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2669.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Ninja Dark Skin Tone \ud83e\udd77\ud83c\udfff",
+    "description": "Ninja Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2669.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd77\ud83c\udfff"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f977-1f3ff"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

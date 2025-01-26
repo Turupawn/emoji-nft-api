@@ -1,1 +1,19 @@
-{"name":"Emoji#1987","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1987.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1987.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Unamused Face \ud83d\ude12",
+    "description": "Unamused Face",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1987.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude12"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f612"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

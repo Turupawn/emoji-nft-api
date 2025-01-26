@@ -1,1 +1,19 @@
-{"name":"Emoji#1872","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1872.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1872.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Mantelpiece Clock \ud83d\udd70",
+    "description": "Mantelpiece Clock",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1872.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd70"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f570"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

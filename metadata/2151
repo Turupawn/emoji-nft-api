@@ -1,1 +1,19 @@
-{"name":"Emoji#2151","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2151.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2151.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person Pouting Medium-Dark Skin Tone \ud83d\ude4e\ud83c\udffe",
+    "description": "Person Pouting Medium-Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2151.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude4e\ud83c\udffe"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f64e-1f3fe"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

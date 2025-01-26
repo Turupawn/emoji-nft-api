@@ -1,1 +1,19 @@
-{"name":"Emoji#1913","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1913.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1913.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Joystick \ud83d\udd79",
+    "description": "Joystick",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1913.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd79"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f579"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

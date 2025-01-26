@@ -1,1 +1,19 @@
-{"name":"Emoji#794","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/794.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/794.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Ok Hand \ud83d\udc4c",
+    "description": "Ok Hand",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/794.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc4c"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f44c"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

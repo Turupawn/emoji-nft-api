@@ -1,1 +1,19 @@
-{"name":"Emoji#2289","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2289.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2289.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Men\u2019S Room \ud83d\udeb9",
+    "description": "Men\u2019S Room",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2289.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udeb9"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f6b9"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

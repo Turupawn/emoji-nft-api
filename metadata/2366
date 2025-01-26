@@ -1,1 +1,19 @@
-{"name":"Emoji#2366","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2366.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2366.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Brown Heart \ud83e\udd0e",
+    "description": "Brown Heart",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2366.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd0e"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f90e"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

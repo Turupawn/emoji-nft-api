@@ -1,1 +1,19 @@
-{"name":"Emoji#1955","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1955.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1955.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Clamp \ud83d\udddc",
+    "description": "Clamp",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1955.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udddc"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f5dc"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

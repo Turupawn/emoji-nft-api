@@ -1,1 +1,19 @@
-{"name":"Emoji#59","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/59.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/59.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Cocos (Keeling) Islands \ud83c\udde8\ud83c\udde8",
+    "description": "Cocos (Keeling) Islands",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/59.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udde8\ud83c\udde8"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1e8-1f1e8"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

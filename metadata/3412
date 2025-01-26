@@ -1,1 +1,19 @@
-{"name":"Emoji#3412","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3412.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3412.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Handshake Medium Skin Tone Light Skin Tone \ud83e\udef1\ud83c\udffd\u200d\ud83e\udef2\ud83c\udffb",
+    "description": "Handshake Medium Skin Tone Light Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3412.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udef1\ud83c\udffd\u200d\ud83e\udef2\ud83c\udffb"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1faf1-1f3fd-200d-1faf2-1f3fb"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#2343","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2343.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2343.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Auto Rickshaw \ud83d\udefa",
+    "description": "Auto Rickshaw",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2343.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udefa"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f6fa"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

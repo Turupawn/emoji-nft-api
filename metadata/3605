@@ -1,1 +1,19 @@
-{"name":"Emoji#3605","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3605.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3605.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person Bouncing Ball \u26f9",
+    "description": "Person Bouncing Ball",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3605.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u26f9"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "26f9"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

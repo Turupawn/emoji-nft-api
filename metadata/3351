@@ -1,1 +1,19 @@
-{"name":"Emoji#3351","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3351.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3351.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Wood \ud83e\udeb5",
+    "description": "Wood",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3351.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udeb5"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1fab5"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#2660","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2660.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2660.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Smiling Face With Tear \ud83e\udd72",
+    "description": "Smiling Face With Tear",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2660.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd72"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f972"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

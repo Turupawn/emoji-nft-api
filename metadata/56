@@ -1,1 +1,19 @@
-{"name":"Emoji#56","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/56.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/56.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Belize \ud83c\udde7\ud83c\uddff",
+    "description": "Belize",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/56.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udde7\ud83c\uddff"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1e7-1f1ff"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

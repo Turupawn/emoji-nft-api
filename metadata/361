@@ -1,1 +1,19 @@
-{"name":"Emoji#361","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/361.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/361.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Taco \ud83c\udf2e",
+    "description": "Taco",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/361.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf2e"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f32e"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

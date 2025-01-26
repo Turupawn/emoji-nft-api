@@ -1,1 +1,19 @@
-{"name":"Emoji#1914","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1914.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1914.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Man Dancing Light Skin Tone \ud83d\udd7a\ud83c\udffb",
+    "description": "Man Dancing Light Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1914.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd7a\ud83c\udffb"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f57a-1f3fb"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

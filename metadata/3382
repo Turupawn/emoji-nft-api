@@ -1,1 +1,19 @@
-{"name":"Emoji#3382","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3382.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3382.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Tamale \ud83e\uded4",
+    "description": "Tamale",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3382.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uded4"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1fad4"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

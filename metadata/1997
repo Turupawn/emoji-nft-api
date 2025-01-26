@@ -1,1 +1,19 @@
-{"name":"Emoji#1997","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1997.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1997.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Winking Face With Tongue \ud83d\ude1c",
+    "description": "Winking Face With Tongue",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1997.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude1c"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f61c"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

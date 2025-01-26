@@ -1,1 +1,19 @@
-{"name":"Emoji#1787","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1787.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1787.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Speaker Low Volume \ud83d\udd08",
+    "description": "Speaker Low Volume",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1787.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd08"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f508"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

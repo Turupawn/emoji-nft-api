@@ -1,1 +1,19 @@
-{"name":"Emoji#3584","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3584.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3584.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Skiermedium-Dark Skin Tone \u26f7\ud83c\udffe",
+    "description": "Skiermedium-Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3584.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u26f7\ud83c\udffe"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "26f7-1f3fe"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

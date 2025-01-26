@@ -1,1 +1,19 @@
-{"name":"Emoji#2870","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2870.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2870.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Office Worker Light Skin Tone \ud83e\uddd1\ud83c\udffb\u200d\ud83d\udcbc",
+    "description": "Office Worker Light Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2870.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddd1\ud83c\udffb\u200d\ud83d\udcbc"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9d1-1f3fb-200d-1f4bc"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

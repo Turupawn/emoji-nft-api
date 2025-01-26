@@ -1,1 +1,19 @@
-{"name":"Emoji#2477","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2477.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2477.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Palms Up Together Medium-Dark Skin Tone \ud83e\udd32\ud83c\udffe",
+    "description": "Palms Up Together Medium-Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2477.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd32\ud83c\udffe"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f932-1f3fe"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

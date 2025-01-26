@@ -1,1 +1,19 @@
-{"name":"Emoji#2328","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2328.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2328.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Oil Drum \ud83d\udee2",
+    "description": "Oil Drum",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2328.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udee2"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f6e2"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

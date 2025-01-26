@@ -1,1 +1,19 @@
-{"name":"Emoji#3319","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3319.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3319.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Razor \ud83e\ude92",
+    "description": "Razor",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3319.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\ude92"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1fa92"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#2079","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2079.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2079.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person Bowing Light Skin Tone \ud83d\ude47\ud83c\udffb",
+    "description": "Person Bowing Light Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2079.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude47\ud83c\udffb"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f647-1f3fb"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

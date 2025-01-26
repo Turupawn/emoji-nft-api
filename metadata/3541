@@ -1,1 +1,19 @@
-{"name":"Emoji#3541","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3541.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3541.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Heart Suit \u2665",
+    "description": "Heart Suit",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3541.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u2665"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "2665"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

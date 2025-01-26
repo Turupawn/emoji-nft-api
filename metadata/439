@@ -1,1 +1,19 @@
-{"name":"Emoji#439","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/439.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/439.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Baby Bottle \ud83c\udf7c",
+    "description": "Baby Bottle",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/439.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf7c"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f37c"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

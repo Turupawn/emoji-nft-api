@@ -1,1 +1,19 @@
-{"name":"Emoji#2612","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2612.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2612.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Drum \ud83e\udd41",
+    "description": "Drum",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2612.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd41"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f941"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

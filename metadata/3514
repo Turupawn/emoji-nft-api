@@ -1,1 +1,19 @@
-{"name":"Emoji#3514","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3514.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3514.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Skull And Crossbones \u2620",
+    "description": "Skull And Crossbones",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3514.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u2620"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "2620"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

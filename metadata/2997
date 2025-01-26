@@ -1,1 +1,19 @@
-{"name":"Emoji#2997","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2997.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2997.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person With White Cane Medium-Dark Skin Tone \ud83e\uddd1\ud83c\udffe\u200d\ud83e\uddaf",
+    "description": "Person With White Cane Medium-Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2997.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddd1\ud83c\udffe\u200d\ud83e\uddaf"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9d1-1f3fe-200d-1f9af"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

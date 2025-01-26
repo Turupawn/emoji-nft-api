@@ -1,1 +1,19 @@
-{"name":"Emoji#1549","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1549.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1549.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Ghost \ud83d\udc7b",
+    "description": "Ghost",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1549.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc7b"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f47b"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

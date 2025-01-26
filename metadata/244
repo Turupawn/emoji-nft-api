@@ -1,1 +1,19 @@
-{"name":"Emoji#244","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/244.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/244.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Sierra Leone \ud83c\uddf8\ud83c\uddf1",
+    "description": "Sierra Leone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/244.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddf8\ud83c\uddf1"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1f8-1f1f1"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

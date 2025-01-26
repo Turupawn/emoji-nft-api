@@ -1,1 +1,19 @@
-{"name":"Emoji#2492","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2492.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2492.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Woman In Tuxedo Light Skin Tone \ud83e\udd35\ud83c\udffb\u200d\u2640\ufe0f",
+    "description": "Woman In Tuxedo Light Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2492.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd35\ud83c\udffb\u200d\u2640\ufe0f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f935-1f3fb-200d-2640-fe0f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

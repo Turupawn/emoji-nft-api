@@ -1,1 +1,19 @@
-{"name":"Emoji#630","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/630.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/630.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Desert \ud83c\udfdc",
+    "description": "Desert",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/630.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfdc"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3dc"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

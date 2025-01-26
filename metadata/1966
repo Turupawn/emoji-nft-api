@@ -1,1 +1,19 @@
-{"name":"Emoji#1966","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1966.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1966.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Statue Of Liberty \ud83d\uddfd",
+    "description": "Statue Of Liberty",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1966.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\uddfd"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f5fd"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

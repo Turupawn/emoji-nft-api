@@ -1,1 +1,19 @@
-{"name":"Emoji#3510","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3510.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3510.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Index Pointing Up Medium Skin Tone \u261d\ud83c\udffd",
+    "description": "Index Pointing Up Medium Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3510.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u261d\ud83c\udffd"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "261d-1f3fd"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

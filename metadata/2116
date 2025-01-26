@@ -1,1 +1,19 @@
-{"name":"Emoji#2116","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2116.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2116.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Raising Hands Light Skin Tone \ud83d\ude4c\ud83c\udffb",
+    "description": "Raising Hands Light Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2116.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude4c\ud83c\udffb"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f64c-1f3fb"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#2998","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2998.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2998.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person Medium-Dark Skin Tone Red Hair \ud83e\uddd1\ud83c\udffe\u200d\ud83e\uddb0",
+    "description": "Person Medium-Dark Skin Tone Red Hair",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2998.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddd1\ud83c\udffe\u200d\ud83e\uddb0"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9d1-1f3fe-200d-1f9b0"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

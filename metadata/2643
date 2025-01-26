@@ -1,1 +1,19 @@
-{"name":"Emoji#2643","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2643.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2643.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Takeout Box \ud83e\udd61",
+    "description": "Takeout Box",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2643.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd61"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f961"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

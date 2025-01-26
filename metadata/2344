@@ -1,1 +1,19 @@
-{"name":"Emoji#2344","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2344.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2344.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Pickup Truck \ud83d\udefb",
+    "description": "Pickup Truck",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2344.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udefb"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f6fb"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

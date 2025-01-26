@@ -1,1 +1,19 @@
-{"name":"Emoji#1956","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1956.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1956.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Old Key \ud83d\udddd",
+    "description": "Old Key",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1956.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udddd"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f5dd"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

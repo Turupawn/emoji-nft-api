@@ -1,1 +1,19 @@
-{"name":"Emoji#135","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/135.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/135.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Isle Of Man \ud83c\uddee\ud83c\uddf2",
+    "description": "Isle Of Man",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/135.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddee\ud83c\uddf2"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1ee-1f1f2"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#671","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/671.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/671.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Ox \ud83d\udc02",
+    "description": "Ox",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/671.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc02"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f402"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#437","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/437.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/437.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Beer Mug \ud83c\udf7a",
+    "description": "Beer Mug",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/437.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf7a"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f37a"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

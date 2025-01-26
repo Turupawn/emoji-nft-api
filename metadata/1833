@@ -1,1 +1,19 @@
-{"name":"Emoji#1833","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1833.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1833.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Large Orange Diamond \ud83d\udd36",
+    "description": "Large Orange Diamond",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1833.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd36"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f536"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

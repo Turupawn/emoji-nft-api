@@ -1,1 +1,19 @@
-{"name":"Emoji#2727","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2727.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2727.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Red Hair \ud83e\uddb0",
+    "description": "Red Hair",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2727.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddb0"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9b0"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

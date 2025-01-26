@@ -1,1 +1,19 @@
-{"name":"Emoji#2228","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2228.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2228.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "No Littering \ud83d\udeaf",
+    "description": "No Littering",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2228.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udeaf"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f6af"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

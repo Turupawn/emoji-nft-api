@@ -1,1 +1,19 @@
-{"name":"Emoji#2301","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2301.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2301.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person Taking Bath \ud83d\udec0",
+    "description": "Person Taking Bath",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2301.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udec0"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f6c0"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

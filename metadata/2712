@@ -1,1 +1,19 @@
-{"name":"Emoji#2712","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2712.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2712.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Badger \ud83e\udda1",
+    "description": "Badger",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2712.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udda1"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9a1"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

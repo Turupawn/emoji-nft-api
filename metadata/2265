@@ -1,1 +1,19 @@
-{"name":"Emoji#2265","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2265.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2265.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person Mountain Biking Dark Skin Tone \ud83d\udeb5\ud83c\udfff",
+    "description": "Person Mountain Biking Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2265.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udeb5\ud83c\udfff"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f6b5-1f3ff"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

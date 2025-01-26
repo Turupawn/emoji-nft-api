@@ -1,1 +1,19 @@
-{"name":"Emoji#2358","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2358.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2358.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Heavy Equals Sign \ud83d\udff0",
+    "description": "Heavy Equals Sign",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2358.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udff0"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f7f0"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

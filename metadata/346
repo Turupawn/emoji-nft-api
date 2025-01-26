@@ -1,1 +1,19 @@
-{"name":"Emoji#346","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/346.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/346.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Full Moon Face \ud83c\udf1d",
+    "description": "Full Moon Face",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/346.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf1d"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f31d"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

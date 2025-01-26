@@ -1,1 +1,19 @@
-{"name":"Emoji#368","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/368.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/368.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Cactus \ud83c\udf35",
+    "description": "Cactus",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/368.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf35"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f335"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

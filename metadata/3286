@@ -1,1 +1,19 @@
-{"name":"Emoji#3286","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3286.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3286.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Magnet \ud83e\uddf2",
+    "description": "Magnet",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3286.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddf2"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9f2"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

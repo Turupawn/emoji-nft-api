@@ -1,1 +1,19 @@
-{"name":"Emoji#3503","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3503.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3503.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Telephone \u260e",
+    "description": "Telephone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3503.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u260e"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "260e"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

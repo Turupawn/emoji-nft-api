@@ -1,1 +1,19 @@
-{"name":"Emoji#845","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/845.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/845.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Boy \ud83d\udc66",
+    "description": "Boy",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/845.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc66"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f466"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

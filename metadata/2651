@@ -1,1 +1,19 @@
-{"name":"Emoji#2651","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2651.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2651.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Cut Of Meat \ud83e\udd69",
+    "description": "Cut Of Meat",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2651.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd69"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f969"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

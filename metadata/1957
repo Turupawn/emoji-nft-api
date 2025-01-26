@@ -1,1 +1,19 @@
-{"name":"Emoji#1957","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1957.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1957.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Rolled-Up Newspaper \ud83d\uddde",
+    "description": "Rolled-Up Newspaper",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1957.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\uddde"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f5de"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

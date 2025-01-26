@@ -1,1 +1,19 @@
-{"name":"Emoji#1827","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1827.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1827.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Japanese Symbol For Beginner \ud83d\udd30",
+    "description": "Japanese Symbol For Beginner",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1827.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd30"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f530"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

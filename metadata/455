@@ -1,1 +1,19 @@
-{"name":"Emoji#455","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/455.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/455.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Sparkler \ud83c\udf87",
+    "description": "Sparkler",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/455.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf87"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f387"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

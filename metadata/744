@@ -1,1 +1,19 @@
-{"name":"Emoji#744","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/744.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/744.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Ear \ud83d\udc42",
+    "description": "Ear",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/744.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc42"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f442"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

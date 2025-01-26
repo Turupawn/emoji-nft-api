@@ -1,1 +1,19 @@
-{"name":"Emoji#441","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/441.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/441.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Bottle With Popping Cork \ud83c\udf7e",
+    "description": "Bottle With Popping Cork",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/441.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf7e"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f37e"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

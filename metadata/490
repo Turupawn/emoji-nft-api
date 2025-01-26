@@ -1,1 +1,19 @@
-{"name":"Emoji#490","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/490.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/490.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Bullseye \ud83c\udfaf",
+    "description": "Bullseye",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/490.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfaf"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3af"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

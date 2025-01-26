@@ -1,1 +1,19 @@
-{"name":"Emoji#1964","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1964.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1964.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Mount Fuji \ud83d\uddfb",
+    "description": "Mount Fuji",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1964.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\uddfb"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f5fb"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

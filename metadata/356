@@ -1,1 +1,19 @@
-{"name":"Emoji#356","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/356.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/356.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Cloud With Lightning \ud83c\udf29",
+    "description": "Cloud With Lightning",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/356.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf29"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f329"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

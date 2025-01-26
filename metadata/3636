@@ -1,1 +1,19 @@
-{"name":"Emoji#3636","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3636.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3636.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Pencil \u270f",
+    "description": "Pencil",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3636.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u270f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "270f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

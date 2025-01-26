@@ -1,1 +1,19 @@
-{"name":"Emoji#2318","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2318.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2318.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Stop Sign \ud83d\uded1",
+    "description": "Stop Sign",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2318.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\uded1"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f6d1"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#495","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/495.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/495.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Flower Playing Cards \ud83c\udfb4",
+    "description": "Flower Playing Cards",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/495.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfb4"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3b4"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

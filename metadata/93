@@ -1,1 +1,19 @@
-{"name":"Emoji#93","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/93.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/93.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Spain \ud83c\uddea\ud83c\uddf8",
+    "description": "Spain",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/93.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddea\ud83c\uddf8"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1ea-1f1f8"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

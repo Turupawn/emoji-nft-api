@@ -1,1 +1,19 @@
-{"name":"Emoji#416","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/416.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/416.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Fish Cake With Swirl \ud83c\udf65",
+    "description": "Fish Cake With Swirl",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/416.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf65"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f365"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

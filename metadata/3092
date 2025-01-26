@@ -1,1 +1,19 @@
-{"name":"Emoji#3092","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3092.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3092.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Older Person Dark Skin Tone \ud83e\uddd3\ud83c\udfff",
+    "description": "Older Person Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3092.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddd3\ud83c\udfff"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9d3-1f3ff"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

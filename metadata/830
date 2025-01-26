@@ -1,1 +1,19 @@
-{"name":"Emoji#830","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/830.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/830.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Handbag \ud83d\udc5c",
+    "description": "Handbag",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/830.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc5c"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f45c"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

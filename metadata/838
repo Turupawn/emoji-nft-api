@@ -1,1 +1,19 @@
-{"name":"Emoji#838","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/838.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/838.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Bust In Silhouette \ud83d\udc64",
+    "description": "Bust In Silhouette",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/838.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc64"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f464"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

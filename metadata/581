@@ -1,1 +1,19 @@
-{"name":"Emoji#581","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/581.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/581.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person Lifting Weights Light Skin Tone \ud83c\udfcb\ud83c\udffb",
+    "description": "Person Lifting Weights Light Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/581.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfcb\ud83c\udffb"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3cb-1f3fb"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

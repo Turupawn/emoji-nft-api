@@ -1,1 +1,19 @@
-{"name":"Emoji#3521","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3521.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3521.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Wheel Of Dharma \u2638",
+    "description": "Wheel Of Dharma",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3521.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u2638"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "2638"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

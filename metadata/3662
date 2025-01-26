@@ -1,1 +1,19 @@
-{"name":"Emoji#3662","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3662.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3662.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Double Curly Loop \u27bf",
+    "description": "Double Curly Loop",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3662.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u27bf"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "27bf"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

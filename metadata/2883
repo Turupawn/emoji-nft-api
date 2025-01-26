@@ -1,1 +1,19 @@
-{"name":"Emoji#2883","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2883.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2883.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person Light Skin Tone Bald \ud83e\uddd1\ud83c\udffb\u200d\ud83e\uddb2",
+    "description": "Person Light Skin Tone Bald",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2883.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddd1\ud83c\udffb\u200d\ud83e\uddb2"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9d1-1f3fb-200d-1f9b2"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

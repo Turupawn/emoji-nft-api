@@ -1,1 +1,19 @@
-{"name":"Emoji#3341","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3341.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3341.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Rock \ud83e\udea8",
+    "description": "Rock",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3341.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udea8"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1faa8"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

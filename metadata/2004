@@ -1,1 +1,19 @@
-{"name":"Emoji#2004","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2004.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2004.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Persevering Face \ud83d\ude23",
+    "description": "Persevering Face",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2004.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude23"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f623"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

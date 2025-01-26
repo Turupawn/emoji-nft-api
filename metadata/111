@@ -1,1 +1,19 @@
-{"name":"Emoji#111","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/111.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/111.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Gibraltar \ud83c\uddec\ud83c\uddee",
+    "description": "Gibraltar",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/111.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddec\ud83c\uddee"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1ec-1f1ee"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

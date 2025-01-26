@@ -1,1 +1,19 @@
-{"name":"Emoji#697","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/697.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/697.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Spiral Shell \ud83d\udc1a",
+    "description": "Spiral Shell",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/697.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc1a"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f41a"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#461","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/461.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/461.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Pine Decoration \ud83c\udf8d",
+    "description": "Pine Decoration",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/461.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf8d"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f38d"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

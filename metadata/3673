@@ -1,0 +1,19 @@
+{
+    "name": "Keycap 0 0\u20e3",
+    "description": "Keycap 0",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3673.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "0\u20e3"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "30-20e3"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

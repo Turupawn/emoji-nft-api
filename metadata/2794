@@ -1,1 +1,19 @@
-{"name":"Emoji#2794","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2794.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2794.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Salt \ud83e\uddc2",
+    "description": "Salt",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2794.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddc2"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9c2"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

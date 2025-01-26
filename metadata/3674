@@ -1,0 +1,19 @@
+{
+    "name": "Wavy Dash \u3030",
+    "description": "Wavy Dash",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3674.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u3030"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "3030"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

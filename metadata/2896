@@ -1,1 +1,19 @@
-{"name":"Emoji#2896","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2896.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2896.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Couple With Heart Person Person Light Skin Tone Medium-Dark Skin Tone \ud83e\uddd1\ud83c\udffb\u200d\u2764\ufe0f\u200d\ud83e\uddd1\ud83c\udffe",
+    "description": "Couple With Heart Person Person Light Skin Tone Medium-Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2896.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddd1\ud83c\udffb\u200d\u2764\ufe0f\u200d\ud83e\uddd1\ud83c\udffe"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9d1-1f3fb-200d-2764-fe0f-200d-1f9d1-1f3fe"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

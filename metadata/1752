@@ -1,1 +1,19 @@
-{"name":"Emoji#1752","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1752.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1752.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Outbox Tray \ud83d\udce4",
+    "description": "Outbox Tray",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1752.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udce4"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4e4"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

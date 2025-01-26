@@ -1,1 +1,19 @@
-{"name":"Emoji#3645","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3645.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3645.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Snowflake \u2744",
+    "description": "Snowflake",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3645.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u2744"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "2744"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

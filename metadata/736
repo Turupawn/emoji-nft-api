@@ -1,1 +1,19 @@
-{"name":"Emoji#736","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/736.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/736.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Eyes \ud83d\udc40",
+    "description": "Eyes",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/736.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc40"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f440"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

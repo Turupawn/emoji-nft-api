@@ -1,1 +1,19 @@
-{"name":"Emoji#152","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/152.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/152.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Comoros \ud83c\uddf0\ud83c\uddf2",
+    "description": "Comoros",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/152.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddf0\ud83c\uddf2"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1f0-1f1f2"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#2178","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2178.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2178.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Trolleybus \ud83d\ude8e",
+    "description": "Trolleybus",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2178.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude8e"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f68e"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

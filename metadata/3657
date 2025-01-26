@@ -1,1 +1,19 @@
-{"name":"Emoji#3657","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3657.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3657.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Plus \u2795",
+    "description": "Plus",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3657.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u2795"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "2795"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

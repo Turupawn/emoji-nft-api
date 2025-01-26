@@ -1,1 +1,19 @@
-{"name":"Emoji#3290","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3290.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3290.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Yarn \ud83e\uddf6",
+    "description": "Yarn",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3290.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddf6"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9f6"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

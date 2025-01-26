@@ -1,1 +1,19 @@
-{"name":"Emoji#2174","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2174.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2174.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Tram \ud83d\ude8a",
+    "description": "Tram",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2174.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude8a"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f68a"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

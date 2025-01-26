@@ -1,1 +1,19 @@
-{"name":"Emoji#682","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/682.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/682.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Snail \ud83d\udc0c",
+    "description": "Snail",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/682.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc0c"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f40c"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

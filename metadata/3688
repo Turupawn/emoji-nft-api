@@ -1,0 +1,19 @@
+{
+    "name": "Registered \u00ae",
+    "description": "Registered",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3688.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u00ae"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "ae"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

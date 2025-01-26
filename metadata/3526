@@ -1,1 +1,19 @@
-{"name":"Emoji#3526","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3526.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3526.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Aries \u2648",
+    "description": "Aries",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3526.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u2648"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "2648"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#1545","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1545.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1545.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Princess Dark Skin Tone \ud83d\udc78\ud83c\udfff",
+    "description": "Princess Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1545.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc78\ud83c\udfff"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f478-1f3ff"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#1924","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1924.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1924.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Crayon \ud83d\udd8d",
+    "description": "Crayon",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1924.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd8d"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f58d"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

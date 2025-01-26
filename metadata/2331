@@ -1,1 +1,19 @@
-{"name":"Emoji#2331","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2331.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2331.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Motor Boat \ud83d\udee5",
+    "description": "Motor Boat",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2331.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udee5"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f6e5"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

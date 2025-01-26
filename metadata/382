@@ -1,1 +1,19 @@
-{"name":"Emoji#382","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/382.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/382.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Leaf Fluttering In Wind \ud83c\udf43",
+    "description": "Leaf Fluttering In Wind",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/382.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf43"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f343"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

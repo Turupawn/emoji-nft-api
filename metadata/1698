@@ -1,1 +1,19 @@
-{"name":"Emoji#1698","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1698.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1698.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "White Flower \ud83d\udcae",
+    "description": "White Flower",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1698.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udcae"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4ae"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

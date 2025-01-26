@@ -1,1 +1,19 @@
-{"name":"Emoji#3551","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3551.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3551.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Balance Scale \u2696",
+    "description": "Balance Scale",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3551.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u2696"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "2696"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

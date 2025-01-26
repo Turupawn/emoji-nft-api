@@ -1,1 +1,19 @@
-{"name":"Emoji#747","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/747.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/747.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Nose Medium Skin Tone \ud83d\udc43\ud83c\udffd",
+    "description": "Nose Medium Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/747.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc43\ud83c\udffd"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f443-1f3fd"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

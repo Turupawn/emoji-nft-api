@@ -1,1 +1,19 @@
-{"name":"Emoji#3224","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3224.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3224.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Man Vampire \ud83e\udddb\u200d\u2642\ufe0f",
+    "description": "Man Vampire",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3224.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udddb\u200d\u2642\ufe0f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9db-200d-2642-fe0f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

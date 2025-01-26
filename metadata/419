@@ -1,1 +1,19 @@
-{"name":"Emoji#419","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/419.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/419.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Ice Cream \ud83c\udf68",
+    "description": "Ice Cream",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/419.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf68"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f368"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

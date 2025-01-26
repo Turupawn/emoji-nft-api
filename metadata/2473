@@ -1,1 +1,19 @@
-{"name":"Emoji#2473","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2473.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2473.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Breast-Feeding \ud83e\udd31",
+    "description": "Breast-Feeding",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2473.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd31"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f931"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

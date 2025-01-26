@@ -1,1 +1,19 @@
-{"name":"Emoji#2721","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2721.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2721.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Oyster \ud83e\uddaa",
+    "description": "Oyster",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2721.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddaa"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9aa"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

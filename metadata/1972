@@ -1,1 +1,19 @@
-{"name":"Emoji#1972","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1972.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1972.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Grinning Face With Big Eyes \ud83d\ude03",
+    "description": "Grinning Face With Big Eyes",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1972.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude03"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f603"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

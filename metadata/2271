@@ -1,1 +1,19 @@
-{"name":"Emoji#2271","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2271.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2271.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person Walking Light Skin Tone \ud83d\udeb6\ud83c\udffb",
+    "description": "Person Walking Light Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2271.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udeb6\ud83c\udffb"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f6b6-1f3fb"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

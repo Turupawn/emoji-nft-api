@@ -1,1 +1,19 @@
-{"name":"Emoji#2589","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2589.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2589.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Woman Playing Water Polo \ud83e\udd3d\u200d\u2640\ufe0f",
+    "description": "Woman Playing Water Polo",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2589.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd3d\u200d\u2640\ufe0f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f93d-200d-2640-fe0f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#3268","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3268.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3268.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Brain \ud83e\udde0",
+    "description": "Brain",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3268.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udde0"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9e0"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

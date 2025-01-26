@@ -1,1 +1,19 @@
-{"name":"Emoji#237","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/237.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/237.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Sudan \ud83c\uddf8\ud83c\udde9",
+    "description": "Sudan",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/237.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddf8\ud83c\udde9"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1f8-1f1e9"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

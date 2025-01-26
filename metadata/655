@@ -1,1 +1,19 @@
-{"name":"Emoji#655","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/655.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/655.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "England \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
+    "description": "England",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/655.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3f4-e0067-e0062-e0065-e006e-e0067-e007f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

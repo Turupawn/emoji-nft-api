@@ -1,1 +1,19 @@
-{"name":"Emoji#109","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/109.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/109.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Guernsey \ud83c\uddec\ud83c\uddec",
+    "description": "Guernsey",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/109.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddec\ud83c\uddec"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1ec-1f1ec"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

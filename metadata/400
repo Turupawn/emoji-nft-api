@@ -1,1 +1,19 @@
-{"name":"Emoji#400","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/400.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/400.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Pizza \ud83c\udf55",
+    "description": "Pizza",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/400.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf55"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f355"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

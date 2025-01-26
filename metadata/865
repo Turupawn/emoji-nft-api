@@ -1,1 +1,19 @@
-{"name":"Emoji#865","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/865.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/865.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Man Astronaut Light Skin Tone \ud83d\udc68\ud83c\udffb\u200d\ud83d\ude80",
+    "description": "Man Astronaut Light Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/865.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc68\ud83c\udffb\u200d\ud83d\ude80"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f468-1f3fb-200d-1f680"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

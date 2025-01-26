@@ -1,1 +1,19 @@
-{"name":"Emoji#3310","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3310.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3310.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Yo-Yo \ud83e\ude80",
+    "description": "Yo-Yo",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3310.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\ude80"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1fa80"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

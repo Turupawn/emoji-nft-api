@@ -1,1 +1,19 @@
-{"name":"Emoji#2020","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2020.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2020.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Astonished Face \ud83d\ude32",
+    "description": "Astonished Face",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2020.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude32"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f632"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

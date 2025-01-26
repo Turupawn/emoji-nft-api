@@ -1,1 +1,19 @@
-{"name":"Emoji#3445","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3445.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3445.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Palm Up Hand \ud83e\udef4",
+    "description": "Palm Up Hand",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3445.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udef4"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1faf4"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

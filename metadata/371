@@ -1,1 +1,19 @@
-{"name":"Emoji#371","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/371.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/371.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Cherry Blossom \ud83c\udf38",
+    "description": "Cherry Blossom",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/371.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf38"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f338"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

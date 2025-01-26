@@ -1,1 +1,19 @@
-{"name":"Emoji#467","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/467.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/467.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Graduation Cap \ud83c\udf93",
+    "description": "Graduation Cap",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/467.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf93"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f393"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

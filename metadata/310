@@ -1,1 +1,19 @@
-{"name":"Emoji#310","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/310.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/310.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Japanese Not Free Of Charge Button \ud83c\ude36",
+    "description": "Japanese Not Free Of Charge Button",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/310.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\ude36"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f236"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

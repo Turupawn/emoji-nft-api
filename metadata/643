@@ -1,1 +1,19 @@
-{"name":"Emoji#643","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/643.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/643.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Love Hotel \ud83c\udfe9",
+    "description": "Love Hotel",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/643.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfe9"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3e9"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

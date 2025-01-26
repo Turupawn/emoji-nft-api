@@ -1,1 +1,19 @@
-{"name":"Emoji#1800","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1800.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1800.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Bell With Slash \ud83d\udd15",
+    "description": "Bell With Slash",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1800.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd15"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f515"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

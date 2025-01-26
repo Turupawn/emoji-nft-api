@@ -1,1 +1,19 @@
-{"name":"Emoji#1778","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1778.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1778.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Prayer Beads \ud83d\udcff",
+    "description": "Prayer Beads",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1778.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udcff"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4ff"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

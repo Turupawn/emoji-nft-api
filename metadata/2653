@@ -1,1 +1,19 @@
-{"name":"Emoji#2653","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2653.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2653.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Canned Food \ud83e\udd6b",
+    "description": "Canned Food",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2653.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd6b"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f96b"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

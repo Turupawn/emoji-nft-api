@@ -1,1 +1,19 @@
-{"name":"Emoji#3298","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3298.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3298.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Receipt \ud83e\uddfe",
+    "description": "Receipt",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3298.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddfe"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9fe"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

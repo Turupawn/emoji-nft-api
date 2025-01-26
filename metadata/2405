@@ -1,1 +1,19 @@
-{"name":"Emoji#2405","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2405.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2405.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Right-Facing Fist Light Skin Tone \ud83e\udd1c\ud83c\udffb",
+    "description": "Right-Facing Fist Light Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2405.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd1c\ud83c\udffb"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f91c-1f3fb"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

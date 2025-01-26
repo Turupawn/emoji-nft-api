@@ -1,1 +1,19 @@
-{"name":"Emoji#1074","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1074.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1074.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Family Man Woman Girl Girl \ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc67",
+    "description": "Family Man Woman Girl Girl",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1074.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc67"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f468-200d-1f469-200d-1f467-200d-1f467"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

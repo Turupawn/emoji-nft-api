@@ -1,1 +1,19 @@
-{"name":"Emoji#2308","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2308.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2308.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person In Bed Light Skin Tone \ud83d\udecc\ud83c\udffb",
+    "description": "Person In Bed Light Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2308.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udecc\ud83c\udffb"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f6cc-1f3fb"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

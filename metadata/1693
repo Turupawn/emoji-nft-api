@@ -1,1 +1,19 @@
-{"name":"Emoji#1693","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1693.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1693.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Flexed Biceps Dark Skin Tone \ud83d\udcaa\ud83c\udfff",
+    "description": "Flexed Biceps Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1693.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udcaa\ud83c\udfff"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4aa-1f3ff"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

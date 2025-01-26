@@ -1,1 +1,19 @@
-{"name":"Emoji#615","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/615.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/615.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Motorcycle \ud83c\udfcd",
+    "description": "Motorcycle",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/615.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfcd"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3cd"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

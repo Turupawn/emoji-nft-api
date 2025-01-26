@@ -1,1 +1,19 @@
-{"name":"Emoji#211","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/211.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/211.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Panama \ud83c\uddf5\ud83c\udde6",
+    "description": "Panama",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/211.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddf5\ud83c\udde6"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1f5-1f1e6"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

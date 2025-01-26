@@ -1,1 +1,19 @@
-{"name":"Emoji#340","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/340.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/340.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Last Quarter Moon \ud83c\udf17",
+    "description": "Last Quarter Moon",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/340.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf17"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f317"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

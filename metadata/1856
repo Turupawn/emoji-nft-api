@@ -1,1 +1,19 @@
-{"name":"Emoji#1856","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1856.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1856.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Ten O\u2019Clock \ud83d\udd59",
+    "description": "Ten O\u2019Clock",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1856.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd59"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f559"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

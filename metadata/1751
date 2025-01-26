@@ -1,1 +1,19 @@
-{"name":"Emoji#1751","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1751.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1751.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Megaphone \ud83d\udce3",
+    "description": "Megaphone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1751.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udce3"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4e3"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

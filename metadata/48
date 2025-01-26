@@ -1,1 +1,19 @@
-{"name":"Emoji#48","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/48.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/48.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Bolivia \ud83c\udde7\ud83c\uddf4",
+    "description": "Bolivia",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/48.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udde7\ud83c\uddf4"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1e7-1f1f4"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

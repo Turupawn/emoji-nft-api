@@ -1,1 +1,19 @@
-{"name":"Emoji#758","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/758.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/758.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Backhand Index Pointing Up \ud83d\udc46",
+    "description": "Backhand Index Pointing Up",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/758.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc46"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f446"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

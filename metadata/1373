@@ -1,1 +1,19 @@
-{"name":"Emoji#1373","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1373.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1373.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Woman Factory Worker \ud83d\udc69\u200d\ud83c\udfed",
+    "description": "Woman Factory Worker",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1373.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc69\u200d\ud83c\udfed"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f469-200d-1f3ed"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

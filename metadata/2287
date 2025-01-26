@@ -1,1 +1,19 @@
-{"name":"Emoji#2287","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2287.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2287.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "No Pedestrians \ud83d\udeb7",
+    "description": "No Pedestrians",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2287.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udeb7"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f6b7"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

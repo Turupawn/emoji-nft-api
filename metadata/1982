@@ -1,1 +1,19 @@
-{"name":"Emoji#1982","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1982.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1982.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Smiling Face With Heart-Eyes \ud83d\ude0d",
+    "description": "Smiling Face With Heart-Eyes",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1982.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude0d"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f60d"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

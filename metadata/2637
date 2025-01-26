@@ -1,1 +1,19 @@
-{"name":"Emoji#2637","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2637.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2637.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Glass Of Milk \ud83e\udd5b",
+    "description": "Glass Of Milk",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2637.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd5b"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f95b"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

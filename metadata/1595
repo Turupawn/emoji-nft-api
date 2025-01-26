@@ -1,1 +1,19 @@
-{"name":"Emoji#1595","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1595.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1595.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Guard \ud83d\udc82",
+    "description": "Guard",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1595.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc82"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f482"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#477","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/477.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/477.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Roller Coaster \ud83c\udfa2",
+    "description": "Roller Coaster",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/477.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfa2"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3a2"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

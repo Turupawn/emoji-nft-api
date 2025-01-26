@@ -1,1 +1,19 @@
-{"name":"Emoji#743","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/743.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/743.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Ear Dark Skin Tone \ud83d\udc42\ud83c\udfff",
+    "description": "Ear Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/743.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc42\ud83c\udfff"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f442-1f3ff"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

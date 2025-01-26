@@ -1,1 +1,19 @@
-{"name":"Emoji#1976","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1976.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1976.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Smiling Face With Halo \ud83d\ude07",
+    "description": "Smiling Face With Halo",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1976.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude07"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f607"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

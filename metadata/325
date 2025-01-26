@@ -1,1 +1,19 @@
-{"name":"Emoji#325","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/325.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/325.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Rainbow \ud83c\udf08",
+    "description": "Rainbow",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/325.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf08"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f308"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

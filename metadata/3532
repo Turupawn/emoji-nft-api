@@ -1,1 +1,19 @@
-{"name":"Emoji#3532","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3532.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3532.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Libra \u264e",
+    "description": "Libra",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3532.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u264e"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "264e"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

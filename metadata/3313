@@ -1,1 +1,19 @@
-{"name":"Emoji#3313","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3313.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3313.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Boomerang \ud83e\ude83",
+    "description": "Boomerang",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3313.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\ude83"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1fa83"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

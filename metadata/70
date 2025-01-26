@@ -1,1 +1,19 @@
-{"name":"Emoji#70","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/70.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/70.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Clipperton Island \ud83c\udde8\ud83c\uddf5",
+    "description": "Clipperton Island",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/70.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udde8\ud83c\uddf5"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1e8-1f1f5"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#1786","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1786.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1786.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Muted Speaker \ud83d\udd07",
+    "description": "Muted Speaker",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1786.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd07"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f507"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

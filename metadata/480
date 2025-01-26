@@ -1,1 +1,19 @@
-{"name":"Emoji#480","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/480.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/480.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Movie Camera \ud83c\udfa5",
+    "description": "Movie Camera",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/480.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfa5"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3a5"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

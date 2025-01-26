@@ -1,1 +1,19 @@
-{"name":"Emoji#1730","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1730.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1730.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Paperclip \ud83d\udcce",
+    "description": "Paperclip",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1730.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udcce"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4ce"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

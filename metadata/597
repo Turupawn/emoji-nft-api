@@ -1,1 +1,19 @@
-{"name":"Emoji#597","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/597.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/597.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Woman Golfing Light Skin Tone \ud83c\udfcc\ud83c\udffb\u200d\u2640\ufe0f",
+    "description": "Woman Golfing Light Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/597.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfcc\ud83c\udffb\u200d\u2640\ufe0f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3cc-1f3fb-200d-2640-fe0f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

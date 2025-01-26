@@ -1,1 +1,19 @@
-{"name":"Emoji#460","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/460.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/460.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Crossed Flags \ud83c\udf8c",
+    "description": "Crossed Flags",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/460.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf8c"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f38c"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

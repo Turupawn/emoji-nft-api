@@ -1,1 +1,19 @@
-{"name":"Emoji#3156","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3156.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3156.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person In Lotus Position Light Skin Tone \ud83e\uddd8\ud83c\udffb",
+    "description": "Person In Lotus Position Light Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3156.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddd8\ud83c\udffb"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9d8-1f3fb"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

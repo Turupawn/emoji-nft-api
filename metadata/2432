@@ -1,1 +1,19 @@
-{"name":"Emoji#2432","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2432.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2432.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Rolling On The Floor Laughing \ud83e\udd23",
+    "description": "Rolling On The Floor Laughing",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2432.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd23"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f923"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

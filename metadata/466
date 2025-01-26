@@ -1,1 +1,19 @@
-{"name":"Emoji#466","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/466.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/466.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Backpack \ud83c\udf92",
+    "description": "Backpack",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/466.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf92"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f392"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

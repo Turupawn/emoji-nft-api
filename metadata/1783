@@ -1,1 +1,19 @@
-{"name":"Emoji#1783","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1783.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1783.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Counterclockwise Arrows Button \ud83d\udd04",
+    "description": "Counterclockwise Arrows Button",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1783.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd04"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f504"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

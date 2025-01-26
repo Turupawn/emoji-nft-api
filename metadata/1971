@@ -1,1 +1,19 @@
-{"name":"Emoji#1971","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1971.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1971.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Face With Tears Of Joy \ud83d\ude02",
+    "description": "Face With Tears Of Joy",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1971.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude02"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f602"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

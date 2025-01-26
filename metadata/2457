@@ -1,1 +1,19 @@
-{"name":"Emoji#2457","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2457.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2457.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Shushing Face \ud83e\udd2b",
+    "description": "Shushing Face",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2457.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd2b"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f92b"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

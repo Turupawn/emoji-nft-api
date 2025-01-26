@@ -1,1 +1,19 @@
-{"name":"Emoji#3329","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3329.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3329.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Ladder \ud83e\ude9c",
+    "description": "Ladder",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3329.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\ude9c"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1fa9c"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

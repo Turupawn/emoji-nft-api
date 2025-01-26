@@ -1,1 +1,19 @@
-{"name":"Emoji#339","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/339.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/339.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Waning Gibbous Moon \ud83c\udf16",
+    "description": "Waning Gibbous Moon",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/339.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf16"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f316"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

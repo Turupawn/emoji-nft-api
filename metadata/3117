@@ -1,1 +1,19 @@
-{"name":"Emoji#3117","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3117.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3117.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Woman With Headscarf \ud83e\uddd5",
+    "description": "Woman With Headscarf",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3117.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddd5"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9d5"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

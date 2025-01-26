@@ -1,1 +1,19 @@
-{"name":"Emoji#3505","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3505.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3505.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Umbrella With Rain Drops \u2614",
+    "description": "Umbrella With Rain Drops",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3505.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u2614"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "2614"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

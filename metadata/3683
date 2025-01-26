@@ -1,0 +1,19 @@
+{
+    "name": "Keycap 6 6\u20e3",
+    "description": "Keycap 6",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3683.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "6\u20e3"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "36-20e3"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

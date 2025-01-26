@@ -1,1 +1,19 @@
-{"name":"Emoji#750","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/750.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/750.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Nose \ud83d\udc43",
+    "description": "Nose",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/750.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc43"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f443"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

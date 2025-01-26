@@ -1,1 +1,19 @@
-{"name":"Emoji#3366","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3366.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3366.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Pregnant Person Light Skin Tone \ud83e\udec4\ud83c\udffb",
+    "description": "Pregnant Person Light Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3366.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udec4\ud83c\udffb"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1fac4-1f3fb"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

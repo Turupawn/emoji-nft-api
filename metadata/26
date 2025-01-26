@@ -1,1 +1,19 @@
-{"name":"Emoji#26","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/26.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/26.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Angola \ud83c\udde6\ud83c\uddf4",
+    "description": "Angola",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/26.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udde6\ud83c\uddf4"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1e6-1f1f4"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#1977","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1977.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1977.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Smiling Face With Horns \ud83d\ude08",
+    "description": "Smiling Face With Horns",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1977.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude08"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f608"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

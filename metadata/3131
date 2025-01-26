@@ -1,1 +1,19 @@
-{"name":"Emoji#3131","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3131.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3131.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Man In Steamy Room Dark Skin Tone \ud83e\uddd6\ud83c\udfff\u200d\u2642\ufe0f",
+    "description": "Man In Steamy Room Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3131.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddd6\ud83c\udfff\u200d\u2642\ufe0f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9d6-1f3ff-200d-2642-fe0f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

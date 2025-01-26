@@ -1,1 +1,19 @@
-{"name":"Emoji#133","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/133.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/133.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Ireland \ud83c\uddee\ud83c\uddea",
+    "description": "Ireland",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/133.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddee\ud83c\uddea"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1ee-1f1ea"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

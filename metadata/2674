@@ -1,1 +1,19 @@
-{"name":"Emoji#2674","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2674.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2674.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Sari \ud83e\udd7b",
+    "description": "Sari",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2674.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd7b"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f97b"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

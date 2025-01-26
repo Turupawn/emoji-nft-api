@@ -1,1 +1,19 @@
-{"name":"Emoji#2033","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2033.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2033.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Kissing Cat \ud83d\ude3d",
+    "description": "Kissing Cat",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2033.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude3d"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f63d"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

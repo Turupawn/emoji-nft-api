@@ -1,1 +1,19 @@
-{"name":"Emoji#429","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/429.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/429.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Pot Of Food \ud83c\udf72",
+    "description": "Pot Of Food",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/429.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf72"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f372"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

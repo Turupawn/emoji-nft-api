@@ -1,1 +1,19 @@
-{"name":"Emoji#3617","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3617.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3617.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Raised Fist \u270a",
+    "description": "Raised Fist",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3617.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u270a"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "270a"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#1910","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1910.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1910.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Sunglasses \ud83d\udd76",
+    "description": "Sunglasses",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1910.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd76"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f576"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

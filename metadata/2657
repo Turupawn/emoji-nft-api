@@ -1,1 +1,19 @@
-{"name":"Emoji#2657","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2657.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2657.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Bagel \ud83e\udd6f",
+    "description": "Bagel",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2657.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd6f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f96f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

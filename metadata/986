@@ -1,1 +1,19 @@
-{"name":"Emoji#986","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/986.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/986.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Man Firefighter Medium-Dark Skin Tone \ud83d\udc68\ud83c\udffe\u200d\ud83d\ude92",
+    "description": "Man Firefighter Medium-Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/986.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc68\ud83c\udffe\u200d\ud83d\ude92"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f468-1f3fe-200d-1f692"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#2336","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2336.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2336.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Passenger Ship \ud83d\udef3",
+    "description": "Passenger Ship",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2336.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udef3"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f6f3"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

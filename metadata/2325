@@ -1,1 +1,19 @@
-{"name":"Emoji#2325","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2325.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2325.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Ring Buoy \ud83d\udedf",
+    "description": "Ring Buoy",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2325.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udedf"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f6df"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#2452","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2452.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2452.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person Facepalming \ud83e\udd26",
+    "description": "Person Facepalming",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2452.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd26"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f926"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#2375","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2375.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2375.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Face With Thermometer \ud83e\udd12",
+    "description": "Face With Thermometer",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2375.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd12"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f912"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

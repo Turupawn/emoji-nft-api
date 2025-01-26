@@ -1,1 +1,19 @@
-{"name":"Emoji#680","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/680.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/680.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Crocodile \ud83d\udc0a",
+    "description": "Crocodile",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/680.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc0a"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f40a"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

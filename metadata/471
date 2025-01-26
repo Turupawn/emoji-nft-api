@@ -1,1 +1,19 @@
-{"name":"Emoji#471","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/471.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/471.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Level Slider \ud83c\udf9a",
+    "description": "Level Slider",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/471.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf9a"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f39a"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

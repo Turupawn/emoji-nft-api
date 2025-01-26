@@ -1,1 +1,19 @@
-{"name":"Emoji#652","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/652.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/652.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Transgender Flag \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f",
+    "description": "Transgender Flag",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/652.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3f3-fe0f-200d-26a7-fe0f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

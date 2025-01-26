@@ -1,1 +1,19 @@
-{"name":"Emoji#386","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/386.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/386.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Grapes \ud83c\udf47",
+    "description": "Grapes",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/386.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf47"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f347"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

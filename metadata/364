@@ -1,1 +1,19 @@
-{"name":"Emoji#364","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/364.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/364.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Seedling \ud83c\udf31",
+    "description": "Seedling",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/364.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf31"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f331"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

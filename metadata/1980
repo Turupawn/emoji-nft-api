@@ -1,1 +1,19 @@
-{"name":"Emoji#1980","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1980.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1980.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Face Savoring Food \ud83d\ude0b",
+    "description": "Face Savoring Food",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1980.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude0b"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f60b"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#2183","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2183.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2183.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Police Car \ud83d\ude93",
+    "description": "Police Car",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2183.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude93"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f693"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

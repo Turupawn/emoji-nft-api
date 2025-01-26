@@ -1,1 +1,19 @@
-{"name":"Emoji#3459","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3459.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3459.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Exclamation Question Mark \u2049",
+    "description": "Exclamation Question Mark",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3459.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u2049"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "2049"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

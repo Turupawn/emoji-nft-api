@@ -1,1 +1,19 @@
-{"name":"Emoji#251","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/251.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/251.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "El Salvador \ud83c\uddf8\ud83c\uddfb",
+    "description": "El Salvador",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/251.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddf8\ud83c\uddfb"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1f8-1f1fb"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

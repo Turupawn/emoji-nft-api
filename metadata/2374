@@ -1,1 +1,19 @@
-{"name":"Emoji#2374","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2374.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2374.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Money-Mouth Face \ud83e\udd11",
+    "description": "Money-Mouth Face",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2374.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd11"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f911"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

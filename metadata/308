@@ -1,1 +1,19 @@
-{"name":"Emoji#308","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/308.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/308.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Japanese Passing Grade Button \ud83c\ude34",
+    "description": "Japanese Passing Grade Button",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/308.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\ude34"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f234"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

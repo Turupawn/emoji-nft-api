@@ -1,1 +1,19 @@
-{"name":"Emoji#2379","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2379.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2379.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Robot \ud83e\udd16",
+    "description": "Robot",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2379.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd16"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f916"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

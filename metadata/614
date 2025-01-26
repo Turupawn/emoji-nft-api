@@ -1,1 +1,19 @@
-{"name":"Emoji#614","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/614.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/614.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person Golfing \ud83c\udfcc",
+    "description": "Person Golfing",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/614.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfcc"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3cc"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

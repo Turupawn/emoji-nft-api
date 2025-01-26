@@ -1,1 +1,19 @@
-{"name":"Emoji#1780","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1780.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1780.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Repeat Button \ud83d\udd01",
+    "description": "Repeat Button",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1780.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd01"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f501"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

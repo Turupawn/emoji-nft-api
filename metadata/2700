@@ -1,1 +1,19 @@
-{"name":"Emoji#2700","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2700.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2700.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Sauropod \ud83e\udd95",
+    "description": "Sauropod",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2700.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd95"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f995"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

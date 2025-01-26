@@ -1,1 +1,19 @@
-{"name":"Emoji#1822","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1822.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1822.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Water Pistol \ud83d\udd2b",
+    "description": "Water Pistol",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1822.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd2b"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f52b"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

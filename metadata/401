@@ -1,1 +1,19 @@
-{"name":"Emoji#401","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/401.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/401.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Meat On Bone \ud83c\udf56",
+    "description": "Meat On Bone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/401.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf56"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f356"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

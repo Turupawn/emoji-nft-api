@@ -1,1 +1,19 @@
-{"name":"Emoji#493","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/493.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/493.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Game Die \ud83c\udfb2",
+    "description": "Game Die",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/493.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfb2"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3b2"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

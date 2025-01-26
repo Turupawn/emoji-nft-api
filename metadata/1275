@@ -1,1 +1,19 @@
-{"name":"Emoji#1275","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1275.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1275.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Woman And Man Holding Hands Medium-Dark Skin Tone Dark Skin Tone \ud83d\udc69\ud83c\udffe\u200d\ud83e\udd1d\u200d\ud83d\udc68\ud83c\udfff",
+    "description": "Woman And Man Holding Hands Medium-Dark Skin Tone Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1275.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc69\ud83c\udffe\u200d\ud83e\udd1d\u200d\ud83d\udc68\ud83c\udfff"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f469-1f3fe-200d-1f91d-200d-1f468-1f3ff"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

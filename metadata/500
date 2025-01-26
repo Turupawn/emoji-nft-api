@@ -1,1 +1,19 @@
-{"name":"Emoji#500","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/500.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/500.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Musical Keyboard \ud83c\udfb9",
+    "description": "Musical Keyboard",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/500.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfb9"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3b9"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

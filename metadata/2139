@@ -1,1 +1,19 @@
-{"name":"Emoji#2139","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2139.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2139.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person Frowning \ud83d\ude4d",
+    "description": "Person Frowning",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2139.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude4d"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f64d"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

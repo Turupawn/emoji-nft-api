@@ -1,1 +1,19 @@
-{"name":"Emoji#1709","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1709.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1709.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Chart Increasing With Yen \ud83d\udcb9",
+    "description": "Chart Increasing With Yen",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1709.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udcb9"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4b9"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

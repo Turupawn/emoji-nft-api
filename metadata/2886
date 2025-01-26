@@ -1,1 +1,19 @@
-{"name":"Emoji#2886","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2886.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2886.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person In Manual Wheelchair Light Skin Tone \ud83e\uddd1\ud83c\udffb\u200d\ud83e\uddbd",
+    "description": "Person In Manual Wheelchair Light Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2886.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddd1\ud83c\udffb\u200d\ud83e\uddbd"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9d1-1f3fb-200d-1f9bd"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

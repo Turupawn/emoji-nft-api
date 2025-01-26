@@ -1,1 +1,19 @@
-{"name":"Emoji#410","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/410.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/410.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "French Fries \ud83c\udf5f",
+    "description": "French Fries",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/410.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf5f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f35f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

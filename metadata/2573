@@ -1,1 +1,19 @@
-{"name":"Emoji#2573","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2573.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2573.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "People Wrestling \ud83e\udd3c",
+    "description": "People Wrestling",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2573.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd3c"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f93c"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

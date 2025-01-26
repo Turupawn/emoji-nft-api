@@ -1,1 +1,19 @@
-{"name":"Emoji#1658","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1658.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1658.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Bouquet \ud83d\udc90",
+    "description": "Bouquet",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1658.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc90"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f490"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

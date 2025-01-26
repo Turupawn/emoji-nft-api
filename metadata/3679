@@ -1,0 +1,19 @@
+{
+    "name": "Japanese Secret Button \u3299",
+    "description": "Japanese Secret Button",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3679.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u3299"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "3299"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

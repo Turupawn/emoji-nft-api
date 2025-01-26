@@ -1,1 +1,19 @@
-{"name":"Emoji#1736","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1736.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1736.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Notebook With Decorative Cover \ud83d\udcd4",
+    "description": "Notebook With Decorative Cover",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1736.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udcd4"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4d4"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

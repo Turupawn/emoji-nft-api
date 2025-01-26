@@ -1,1 +1,19 @@
-{"name":"Emoji#373","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/373.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/373.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Hibiscus \ud83c\udf3a",
+    "description": "Hibiscus",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/373.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf3a"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f33a"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

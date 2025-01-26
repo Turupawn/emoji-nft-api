@@ -1,1 +1,19 @@
-{"name":"Emoji#2858","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2858.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2858.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Deaf Person \ud83e\uddcf",
+    "description": "Deaf Person",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2858.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddcf"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9cf"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#2632","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2632.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2632.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Baguette Bread \ud83e\udd56",
+    "description": "Baguette Bread",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2632.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd56"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f956"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

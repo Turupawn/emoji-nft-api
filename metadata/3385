@@ -1,1 +1,19 @@
-{"name":"Emoji#3385","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3385.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3385.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Pouring Liquid \ud83e\uded7",
+    "description": "Pouring Liquid",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3385.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uded7"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1fad7"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

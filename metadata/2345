@@ -1,1 +1,19 @@
-{"name":"Emoji#2345","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2345.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2345.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Roller Skate \ud83d\udefc",
+    "description": "Roller Skate",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2345.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udefc"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f6fc"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

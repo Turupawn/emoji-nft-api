@@ -1,1 +1,19 @@
-{"name":"Emoji#2340","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2340.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2340.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Sled \ud83d\udef7",
+    "description": "Sled",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2340.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udef7"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f6f7"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

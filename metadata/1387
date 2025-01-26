@@ -1,1 +1,19 @@
-{"name":"Emoji#1387","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1387.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1387.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Woman Scientist \ud83d\udc69\u200d\ud83d\udd2c",
+    "description": "Woman Scientist",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1387.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc69\u200d\ud83d\udd2c"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f469-200d-1f52c"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

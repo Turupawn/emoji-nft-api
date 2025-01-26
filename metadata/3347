@@ -1,1 +1,19 @@
-{"name":"Emoji#3347","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3347.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3347.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Worm \ud83e\udeb1",
+    "description": "Worm",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3347.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udeb1"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1fab1"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

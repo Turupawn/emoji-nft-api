@@ -1,1 +1,19 @@
-{"name":"Emoji#1699","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1699.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1699.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Hundred Points \ud83d\udcaf",
+    "description": "Hundred Points",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1699.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udcaf"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4af"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

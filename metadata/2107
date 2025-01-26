@@ -1,1 +1,19 @@
-{"name":"Emoji#2107","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2107.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2107.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Woman Raising Hand Medium-Dark Skin Tone \ud83d\ude4b\ud83c\udffe\u200d\u2640\ufe0f",
+    "description": "Woman Raising Hand Medium-Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2107.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude4b\ud83c\udffe\u200d\u2640\ufe0f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f64b-1f3fe-200d-2640-fe0f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#2015","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2015.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2015.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Face Exhaling \ud83d\ude2e\u200d\ud83d\udca8",
+    "description": "Face Exhaling",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2015.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude2e\u200d\ud83d\udca8"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f62e-200d-1f4a8"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

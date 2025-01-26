@@ -1,1 +1,19 @@
-{"name":"Emoji#3086","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3086.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3086.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Child Dark Skin Tone \ud83e\uddd2\ud83c\udfff",
+    "description": "Child Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3086.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddd2\ud83c\udfff"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9d2-1f3ff"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

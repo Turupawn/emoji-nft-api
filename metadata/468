@@ -1,1 +1,19 @@
-{"name":"Emoji#468","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/468.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/468.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Military Medal \ud83c\udf96",
+    "description": "Military Medal",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/468.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf96"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f396"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

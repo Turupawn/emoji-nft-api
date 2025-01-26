@@ -1,1 +1,19 @@
-{"name":"Emoji#3523","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3523.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3523.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Smiling Face \u263a",
+    "description": "Smiling Face",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3523.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u263a"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "263a"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

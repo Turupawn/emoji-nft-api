@@ -1,1 +1,19 @@
-{"name":"Emoji#2025","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2025.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2025.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Face In Clouds \ud83d\ude36\u200d\ud83c\udf2b\ufe0f",
+    "description": "Face In Clouds",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2025.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude36\u200d\ud83c\udf2b\ufe0f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f636-200d-1f32b-fe0f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

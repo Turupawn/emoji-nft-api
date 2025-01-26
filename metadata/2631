@@ -1,1 +1,19 @@
-{"name":"Emoji#2631","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2631.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2631.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Carrot \ud83e\udd55",
+    "description": "Carrot",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2631.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd55"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f955"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

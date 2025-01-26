@@ -1,1 +1,19 @@
-{"name":"Emoji#1676","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1676.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1676.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Heart With Ribbon \ud83d\udc9d",
+    "description": "Heart With Ribbon",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1676.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc9d"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f49d"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

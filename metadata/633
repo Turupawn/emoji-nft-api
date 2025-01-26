@@ -1,1 +1,19 @@
-{"name":"Emoji#633","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/633.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/633.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Stadium \ud83c\udfdf",
+    "description": "Stadium",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/633.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfdf"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3df"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

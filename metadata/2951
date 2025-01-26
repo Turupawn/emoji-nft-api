@@ -1,1 +1,19 @@
-{"name":"Emoji#2951","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2951.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2951.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Astronaut Medium Skin Tone \ud83e\uddd1\ud83c\udffd\u200d\ud83d\ude80",
+    "description": "Astronaut Medium Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2951.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddd1\ud83c\udffd\u200d\ud83d\ude80"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9d1-1f3fd-200d-1f680"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

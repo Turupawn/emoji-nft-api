@@ -1,1 +1,19 @@
-{"name":"Emoji#2160","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2160.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2160.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Folded Hands Medium Skin Tone \ud83d\ude4f\ud83c\udffd",
+    "description": "Folded Hands Medium Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2160.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude4f\ud83c\udffd"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f64f-1f3fd"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#699","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/699.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/699.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Ant \ud83d\udc1c",
+    "description": "Ant",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/699.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc1c"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f41c"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#1651","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1651.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1651.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Gem Stone \ud83d\udc8e",
+    "description": "Gem Stone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1651.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc8e"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f48e"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

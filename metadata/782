@@ -1,1 +1,19 @@
-{"name":"Emoji#782","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/782.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/782.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Oncoming Fist \ud83d\udc4a",
+    "description": "Oncoming Fist",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/782.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc4a"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f44a"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

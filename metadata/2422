@@ -1,1 +1,19 @@
-{"name":"Emoji#2422","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2422.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2422.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Crossed Fingers \ud83e\udd1e",
+    "description": "Crossed Fingers",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2422.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd1e"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f91e"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#2701","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2701.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2701.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "T-Rex \ud83e\udd96",
+    "description": "T-Rex",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2701.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd96"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f996"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

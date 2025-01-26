@@ -1,1 +1,19 @@
-{"name":"Emoji#625","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/625.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/625.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Building Construction \ud83c\udfd7",
+    "description": "Building Construction",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/625.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfd7"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3d7"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

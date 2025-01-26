@@ -1,1 +1,19 @@
-{"name":"Emoji#641","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/641.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/641.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Atm Sign \ud83c\udfe7",
+    "description": "Atm Sign",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/641.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfe7"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3e7"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#2292","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2292.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2292.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Baby Symbol \ud83d\udebc",
+    "description": "Baby Symbol",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2292.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udebc"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f6bc"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#3610","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3610.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3610.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Airplane \u2708",
+    "description": "Airplane",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3610.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u2708"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "2708"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

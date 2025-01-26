@@ -1,1 +1,19 @@
-{"name":"Emoji#2759","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2759.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2759.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Superhero Dark Skin Tone \ud83e\uddb8\ud83c\udfff",
+    "description": "Superhero Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2759.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddb8\ud83c\udfff"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9b8-1f3ff"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

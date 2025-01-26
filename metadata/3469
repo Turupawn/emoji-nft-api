@@ -1,1 +1,19 @@
-{"name":"Emoji#3469","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3469.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3469.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Left Arrow Curving Right \u21aa",
+    "description": "Left Arrow Curving Right",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3469.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u21aa"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "21aa"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

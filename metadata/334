@@ -1,1 +1,19 @@
-{"name":"Emoji#334","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/334.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/334.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "New Moon \ud83c\udf11",
+    "description": "New Moon",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/334.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf11"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f311"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

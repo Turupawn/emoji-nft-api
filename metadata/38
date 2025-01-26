@@ -1,1 +1,19 @@
-{"name":"Emoji#38","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/38.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/38.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Bangladesh \ud83c\udde7\ud83c\udde9",
+    "description": "Bangladesh",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/38.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udde7\ud83c\udde9"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1e7-1f1e9"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

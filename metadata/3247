@@ -1,1 +1,19 @@
-{"name":"Emoji#3247","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3247.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3247.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Woman Elf Medium-Light Skin Tone \ud83e\udddd\ud83c\udffc\u200d\u2640\ufe0f",
+    "description": "Woman Elf Medium-Light Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3247.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udddd\ud83c\udffc\u200d\u2640\ufe0f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9dd-1f3fc-200d-2640-fe0f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

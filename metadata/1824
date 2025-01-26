@@ -1,1 +1,19 @@
-{"name":"Emoji#1824","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1824.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1824.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Telescope \ud83d\udd2d",
+    "description": "Telescope",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1824.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd2d"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f52d"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

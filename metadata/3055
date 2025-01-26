@@ -1,1 +1,19 @@
-{"name":"Emoji#3055","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3055.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3055.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Farmer \ud83e\uddd1\u200d\ud83c\udf3e",
+    "description": "Farmer",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3055.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddd1\u200d\ud83c\udf3e"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9d1-200d-1f33e"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

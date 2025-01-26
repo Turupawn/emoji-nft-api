@@ -1,1 +1,19 @@
-{"name":"Emoji#2323","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2323.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2323.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Playground Slide \ud83d\udedd",
+    "description": "Playground Slide",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2323.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udedd"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f6dd"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#2681","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2681.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2681.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Scorpion \ud83e\udd82",
+    "description": "Scorpion",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2681.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd82"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f982"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

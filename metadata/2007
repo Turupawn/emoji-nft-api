@@ -1,1 +1,19 @@
-{"name":"Emoji#2007","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2007.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2007.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Frowning Face With Open Mouth \ud83d\ude26",
+    "description": "Frowning Face With Open Mouth",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2007.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude26"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f626"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

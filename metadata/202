@@ -1,1 +1,19 @@
-{"name":"Emoji#202","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/202.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/202.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Netherlands \ud83c\uddf3\ud83c\uddf1",
+    "description": "Netherlands",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/202.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddf3\ud83c\uddf1"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1f3-1f1f1"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

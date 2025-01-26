@@ -1,1 +1,19 @@
-{"name":"Emoji#175","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/175.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/175.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Montenegro \ud83c\uddf2\ud83c\uddea",
+    "description": "Montenegro",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/175.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddf2\ud83c\uddea"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1f2-1f1ea"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

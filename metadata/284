@@ -1,1 +1,19 @@
-{"name":"Emoji#284","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/284.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/284.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Venezuela \ud83c\uddfb\ud83c\uddea",
+    "description": "Venezuela",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/284.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddfb\ud83c\uddea"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1fb-1f1ea"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

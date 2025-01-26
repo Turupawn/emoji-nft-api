@@ -1,1 +1,19 @@
-{"name":"Emoji#1712","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1712.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1712.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Briefcase \ud83d\udcbc",
+    "description": "Briefcase",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1712.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udcbc"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4bc"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#1695","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1695.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1695.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Dizzy \ud83d\udcab",
+    "description": "Dizzy",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1695.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udcab"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4ab"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

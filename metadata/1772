@@ -1,1 +1,19 @@
-{"name":"Emoji#1772","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1772.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1772.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Camera With Flash \ud83d\udcf8",
+    "description": "Camera With Flash",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1772.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udcf8"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4f8"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

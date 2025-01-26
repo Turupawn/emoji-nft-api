@@ -1,1 +1,19 @@
-{"name":"Emoji#3355","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3355.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3355.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Empty Nest \ud83e\udeb9",
+    "description": "Empty Nest",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3355.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udeb9"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1fab9"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

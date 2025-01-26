@@ -1,1 +1,19 @@
-{"name":"Emoji#2926","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2926.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2926.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Health Worker Medium-Light Skin Tone \ud83e\uddd1\ud83c\udffc\u200d\u2695\ufe0f",
+    "description": "Health Worker Medium-Light Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2926.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddd1\ud83c\udffc\u200d\u2695\ufe0f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9d1-1f3fc-200d-2695-fe0f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

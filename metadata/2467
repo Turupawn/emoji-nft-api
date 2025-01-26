@@ -1,1 +1,19 @@
-{"name":"Emoji#2467","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2467.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2467.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Pregnant Woman \ud83e\udd30",
+    "description": "Pregnant Woman",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2467.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd30"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f930"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

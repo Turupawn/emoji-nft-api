@@ -1,1 +1,19 @@
-{"name":"Emoji#2722","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2722.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2722.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Beaver \ud83e\uddab",
+    "description": "Beaver",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2722.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddab"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9ab"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

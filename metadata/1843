@@ -1,1 +1,19 @@
-{"name":"Emoji#1843","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1843.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1843.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Kaaba \ud83d\udd4b",
+    "description": "Kaaba",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1843.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd4b"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f54b"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

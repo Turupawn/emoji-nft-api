@@ -1,1 +1,19 @@
-{"name":"Emoji#3457","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3457.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3457.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Heart Hands \ud83e\udef6",
+    "description": "Heart Hands",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3457.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udef6"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1faf6"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

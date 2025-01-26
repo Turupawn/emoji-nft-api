@@ -1,1 +1,19 @@
-{"name":"Emoji#3587","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3587.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3587.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Ice Skate \u26f8",
+    "description": "Ice Skate",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3587.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u26f8"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "26f8"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

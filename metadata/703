@@ -1,1 +1,19 @@
-{"name":"Emoji#703","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/703.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/703.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Tropical Fish \ud83d\udc20",
+    "description": "Tropical Fish",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/703.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc20"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f420"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

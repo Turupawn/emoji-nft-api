@@ -1,1 +1,19 @@
-{"name":"Emoji#2584","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2584.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2584.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Man Playing Water Polo Medium-Dark Skin Tone \ud83e\udd3d\ud83c\udffe\u200d\u2642\ufe0f",
+    "description": "Man Playing Water Polo Medium-Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2584.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd3d\ud83c\udffe\u200d\u2642\ufe0f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f93d-1f3fe-200d-2642-fe0f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

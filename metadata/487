@@ -1,1 +1,19 @@
-{"name":"Emoji#487","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/487.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/487.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Clapper Board \ud83c\udfac",
+    "description": "Clapper Board",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/487.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfac"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3ac"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

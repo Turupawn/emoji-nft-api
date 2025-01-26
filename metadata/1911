@@ -1,1 +1,19 @@
-{"name":"Emoji#1911","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1911.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1911.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Spider \ud83d\udd77",
+    "description": "Spider",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1911.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd77"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f577"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

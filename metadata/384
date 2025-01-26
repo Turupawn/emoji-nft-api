@@ -1,1 +1,19 @@
-{"name":"Emoji#384","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/384.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/384.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Tomato \ud83c\udf45",
+    "description": "Tomato",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/384.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf45"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f345"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

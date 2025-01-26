@@ -1,1 +1,19 @@
-{"name":"Emoji#2619","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2619.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2619.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "3Rd Place Medal \ud83e\udd49",
+    "description": "3Rd Place Medal",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2619.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd49"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f949"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

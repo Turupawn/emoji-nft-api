@@ -1,1 +1,19 @@
-{"name":"Emoji#498","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/498.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/498.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Saxophone \ud83c\udfb7",
+    "description": "Saxophone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/498.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfb7"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3b7"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

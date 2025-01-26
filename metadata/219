@@ -1,1 +1,19 @@
-{"name":"Emoji#219","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/219.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/219.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Pitcairn Islands \ud83c\uddf5\ud83c\uddf3",
+    "description": "Pitcairn Islands",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/219.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddf5\ud83c\uddf3"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1f5-1f1f3"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

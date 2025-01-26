@@ -1,1 +1,19 @@
-{"name":"Emoji#2696","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2696.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2696.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Squid \ud83e\udd91",
+    "description": "Squid",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2696.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd91"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f991"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

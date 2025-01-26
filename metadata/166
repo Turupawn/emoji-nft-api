@@ -1,1 +1,19 @@
-{"name":"Emoji#166","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/166.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/166.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Lesotho \ud83c\uddf1\ud83c\uddf8",
+    "description": "Lesotho",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/166.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddf1\ud83c\uddf8"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1f1-1f1f8"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

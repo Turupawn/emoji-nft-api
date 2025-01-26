@@ -1,1 +1,19 @@
-{"name":"Emoji#167","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/167.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/167.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Lithuania \ud83c\uddf1\ud83c\uddf9",
+    "description": "Lithuania",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/167.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddf1\ud83c\uddf9"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1f1-1f1f9"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

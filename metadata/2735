@@ -1,1 +1,19 @@
-{"name":"Emoji#2735","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2735.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2735.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Leg Medium-Dark Skin Tone \ud83e\uddb5\ud83c\udffe",
+    "description": "Leg Medium-Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2735.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddb5\ud83c\udffe"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9b5-1f3fe"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

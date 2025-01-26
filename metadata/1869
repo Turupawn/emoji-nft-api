@@ -1,1 +1,19 @@
-{"name":"Emoji#1869","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1869.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1869.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Eleven-Thirty \ud83d\udd66",
+    "description": "Eleven-Thirty",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1869.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd66"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f566"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

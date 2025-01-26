@@ -1,1 +1,19 @@
-{"name":"Emoji#34","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/34.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/34.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Azerbaijan \ud83c\udde6\ud83c\uddff",
+    "description": "Azerbaijan",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/34.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udde6\ud83c\uddff"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1e6-1f1ff"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

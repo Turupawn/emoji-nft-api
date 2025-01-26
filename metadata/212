@@ -1,1 +1,19 @@
-{"name":"Emoji#212","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/212.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/212.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Peru \ud83c\uddf5\ud83c\uddea",
+    "description": "Peru",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/212.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddf5\ud83c\uddea"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1f5-1f1ea"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

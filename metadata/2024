@@ -1,1 +1,19 @@
-{"name":"Emoji#2024","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2024.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2024.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Face With Crossed-Out Eyes \ud83d\ude35",
+    "description": "Face With Crossed-Out Eyes",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2024.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude35"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f635"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

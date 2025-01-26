@@ -1,1 +1,19 @@
-{"name":"Emoji#3540","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3540.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3540.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Club Suit \u2663",
+    "description": "Club Suit",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3540.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u2663"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "2663"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

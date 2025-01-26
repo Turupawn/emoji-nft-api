@@ -1,1 +1,19 @@
-{"name":"Emoji#3398","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3398.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3398.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Hand With Index Finger And Thumb Crossed Medium Skin Tone \ud83e\udef0\ud83c\udffd",
+    "description": "Hand With Index Finger And Thumb Crossed Medium Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3398.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udef0\ud83c\udffd"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1faf0-1f3fd"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

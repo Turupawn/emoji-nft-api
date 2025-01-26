@@ -1,1 +1,19 @@
-{"name":"Emoji#2630","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2630.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2630.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Potato \ud83e\udd54",
+    "description": "Potato",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2630.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd54"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f954"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#2839","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2839.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2839.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Man Kneeling \ud83e\uddce\u200d\u2642\ufe0f",
+    "description": "Man Kneeling",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2839.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddce\u200d\u2642\ufe0f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9ce-200d-2642-fe0f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

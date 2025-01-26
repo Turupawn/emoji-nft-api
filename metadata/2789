@@ -1,1 +1,19 @@
-{"name":"Emoji#2789","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2789.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2789.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Manual Wheelchair \ud83e\uddbd",
+    "description": "Manual Wheelchair",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2789.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddbd"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9bd"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

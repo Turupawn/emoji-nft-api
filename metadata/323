@@ -1,1 +1,19 @@
-{"name":"Emoji#323","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/323.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/323.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Cityscape At Dusk \ud83c\udf06",
+    "description": "Cityscape At Dusk",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/323.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf06"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f306"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

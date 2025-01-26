@@ -1,1 +1,19 @@
-{"name":"Emoji#2095","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2095.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2095.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "See-No-Evil Monkey \ud83d\ude48",
+    "description": "See-No-Evil Monkey",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2095.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude48"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f648"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

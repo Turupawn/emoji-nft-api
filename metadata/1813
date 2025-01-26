@@ -1,1 +1,19 @@
-{"name":"Emoji#1813","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1813.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1813.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Input Numbers \ud83d\udd22",
+    "description": "Input Numbers",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1813.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd22"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f522"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

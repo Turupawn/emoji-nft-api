@@ -1,1 +1,19 @@
-{"name":"Emoji#2315","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2315.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2315.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Bellhop Bell \ud83d\udece",
+    "description": "Bellhop Bell",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2315.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udece"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f6ce"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

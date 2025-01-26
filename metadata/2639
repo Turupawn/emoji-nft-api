@@ -1,1 +1,19 @@
-{"name":"Emoji#2639","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2639.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2639.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Kiwi Fruit \ud83e\udd5d",
+    "description": "Kiwi Fruit",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2639.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd5d"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f95d"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

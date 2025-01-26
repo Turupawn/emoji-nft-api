@@ -1,1 +1,19 @@
-{"name":"Emoji#3477","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3477.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3477.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Fast Up Button \u23eb",
+    "description": "Fast Up Button",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3477.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u23eb"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "23eb"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

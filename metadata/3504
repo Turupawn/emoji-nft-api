@@ -1,1 +1,19 @@
-{"name":"Emoji#3504","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3504.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3504.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Check Box With Check \u2611",
+    "description": "Check Box With Check",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3504.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u2611"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "2611"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

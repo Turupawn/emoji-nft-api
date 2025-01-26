@@ -1,1 +1,19 @@
-{"name":"Emoji#1731","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1731.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1731.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Straight Ruler \ud83d\udccf",
+    "description": "Straight Ruler",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1731.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udccf"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4cf"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

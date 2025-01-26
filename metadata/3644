@@ -1,1 +1,19 @@
-{"name":"Emoji#3644","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3644.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3644.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Eight-Pointed Star \u2734",
+    "description": "Eight-Pointed Star",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3644.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u2734"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "2734"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

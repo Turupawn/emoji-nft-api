@@ -1,1 +1,19 @@
-{"name":"Emoji#3294","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3294.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3294.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Basket \ud83e\uddfa",
+    "description": "Basket",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3294.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddfa"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9fa"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

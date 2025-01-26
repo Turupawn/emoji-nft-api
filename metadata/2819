@@ -1,1 +1,19 @@
-{"name":"Emoji#2819","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2819.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2819.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person Standing Dark Skin Tone \ud83e\uddcd\ud83c\udfff",
+    "description": "Person Standing Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2819.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddcd\ud83c\udfff"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9cd-1f3ff"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

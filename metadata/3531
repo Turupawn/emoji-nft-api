@@ -1,1 +1,19 @@
-{"name":"Emoji#3531","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3531.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3531.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Virgo \u264d",
+    "description": "Virgo",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3531.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u264d"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "264d"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

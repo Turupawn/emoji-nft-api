@@ -1,1 +1,19 @@
-{"name":"Emoji#378","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/378.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/378.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Herb \ud83c\udf3f",
+    "description": "Herb",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/378.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf3f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f33f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

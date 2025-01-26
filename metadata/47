@@ -1,1 +1,19 @@
-{"name":"Emoji#47","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/47.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/47.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Brunei \ud83c\udde7\ud83c\uddf3",
+    "description": "Brunei",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/47.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udde7\ud83c\uddf3"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1e7-1f1f3"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

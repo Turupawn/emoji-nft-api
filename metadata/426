@@ -1,1 +1,19 @@
-{"name":"Emoji#426","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/426.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/426.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Honey Pot \ud83c\udf6f",
+    "description": "Honey Pot",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/426.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf6f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f36f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

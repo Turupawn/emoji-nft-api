@@ -1,1 +1,19 @@
-{"name":"Emoji#476","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/476.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/476.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Ferris Wheel \ud83c\udfa1",
+    "description": "Ferris Wheel",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/476.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfa1"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3a1"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

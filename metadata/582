@@ -1,1 +1,19 @@
-{"name":"Emoji#582","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/582.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/582.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Woman Lifting Weights Medium-Light Skin Tone \ud83c\udfcb\ud83c\udffc\u200d\u2640\ufe0f",
+    "description": "Woman Lifting Weights Medium-Light Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/582.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfcb\ud83c\udffc\u200d\u2640\ufe0f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3cb-1f3fc-200d-2640-fe0f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

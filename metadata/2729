@@ -1,1 +1,19 @@
-{"name":"Emoji#2729","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2729.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2729.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Bald \ud83e\uddb2",
+    "description": "Bald",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2729.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddb2"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9b2"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

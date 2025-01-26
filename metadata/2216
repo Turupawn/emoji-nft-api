@@ -1,1 +1,19 @@
-{"name":"Emoji#2216","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2216.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2216.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person Rowing Boat \ud83d\udea3",
+    "description": "Person Rowing Boat",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2216.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udea3"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f6a3"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

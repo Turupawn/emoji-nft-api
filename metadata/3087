@@ -1,1 +1,19 @@
-{"name":"Emoji#3087","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3087.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3087.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Child \ud83e\uddd2",
+    "description": "Child",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3087.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddd2"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9d2"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

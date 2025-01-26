@@ -1,1 +1,19 @@
-{"name":"Emoji#1013","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1013.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1013.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Man Cook Dark Skin Tone \ud83d\udc68\ud83c\udfff\u200d\ud83c\udf73",
+    "description": "Man Cook Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1013.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc68\ud83c\udfff\u200d\ud83c\udf73"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f468-1f3ff-200d-1f373"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

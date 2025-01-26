@@ -1,1 +1,19 @@
-{"name":"Emoji#3506","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3506.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3506.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Hot Beverage \u2615",
+    "description": "Hot Beverage",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3506.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u2615"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "2615"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

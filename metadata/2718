@@ -1,1 +1,19 @@
-{"name":"Emoji#2718","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2718.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2718.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Orangutan \ud83e\udda7",
+    "description": "Orangutan",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2718.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udda7"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9a7"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

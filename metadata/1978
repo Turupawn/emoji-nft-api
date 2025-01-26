@@ -1,1 +1,19 @@
-{"name":"Emoji#1978","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1978.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1978.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Winking Face \ud83d\ude09",
+    "description": "Winking Face",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1978.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude09"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f609"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

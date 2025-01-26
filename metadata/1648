@@ -1,1 +1,19 @@
-{"name":"Emoji#1648","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1648.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1648.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Kiss Mark \ud83d\udc8b",
+    "description": "Kiss Mark",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1648.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc8b"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f48b"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

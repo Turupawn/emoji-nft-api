@@ -1,1 +1,19 @@
-{"name":"Emoji#372","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/372.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/372.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Rose \ud83c\udf39",
+    "description": "Rose",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/372.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf39"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f339"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

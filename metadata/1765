@@ -1,1 +1,19 @@
-{"name":"Emoji#1765","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1765.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1765.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Mobile Phone \ud83d\udcf1",
+    "description": "Mobile Phone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1765.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udcf1"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4f1"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

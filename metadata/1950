@@ -1,1 +1,19 @@
-{"name":"Emoji#1950","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1950.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1950.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Card File Box \ud83d\uddc3",
+    "description": "Card File Box",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1950.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\uddc3"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f5c3"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#3572","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3572.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3572.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "No Entry \u26d4",
+    "description": "No Entry",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3572.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u26d4"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "26d4"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

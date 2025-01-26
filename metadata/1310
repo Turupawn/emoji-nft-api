@@ -1,1 +1,19 @@
-{"name":"Emoji#1310","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1310.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1310.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Woman Medium-Dark Skin Tone \ud83d\udc69\ud83c\udffe",
+    "description": "Woman Medium-Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1310.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc69\ud83c\udffe"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f469-1f3fe"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

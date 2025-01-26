@@ -1,1 +1,19 @@
-{"name":"Emoji#2335","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2335.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2335.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Satellite \ud83d\udef0",
+    "description": "Satellite",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2335.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udef0"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f6f0"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

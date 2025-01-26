@@ -1,1 +1,19 @@
-{"name":"Emoji#677","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/677.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/677.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Black Cat \ud83d\udc08\u200d\u2b1b",
+    "description": "Black Cat",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/677.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc08\u200d\u2b1b"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f408-200d-2b1b"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

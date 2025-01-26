@@ -1,1 +1,19 @@
-{"name":"Emoji#444","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/444.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/444.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Wrapped Gift \ud83c\udf81",
+    "description": "Wrapped Gift",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/444.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf81"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f381"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

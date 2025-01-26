@@ -1,1 +1,19 @@
-{"name":"Emoji#3489","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3489.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3489.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Circled M \u24c2",
+    "description": "Circled M",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3489.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u24c2"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "24c2"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

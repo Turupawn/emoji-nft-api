@@ -1,1 +1,19 @@
-{"name":"Emoji#800","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/800.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/800.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Thumbs Up \ud83d\udc4d",
+    "description": "Thumbs Up",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/800.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc4d"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f44d"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

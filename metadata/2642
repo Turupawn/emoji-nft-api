@@ -1,1 +1,19 @@
-{"name":"Emoji#2642","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2642.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2642.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Fortune Cookie \ud83e\udd60",
+    "description": "Fortune Cookie",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2642.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd60"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f960"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

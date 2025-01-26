@@ -1,1 +1,19 @@
-{"name":"Emoji#3275","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3275.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3275.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Red Envelope \ud83e\udde7",
+    "description": "Red Envelope",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3275.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udde7"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9e7"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

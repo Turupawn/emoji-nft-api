@@ -1,1 +1,19 @@
-{"name":"Emoji#101","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/101.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/101.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Faroe Islands \ud83c\uddeb\ud83c\uddf4",
+    "description": "Faroe Islands",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/101.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddeb\ud83c\uddf4"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1eb-1f1f4"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

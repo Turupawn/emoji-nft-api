@@ -1,1 +1,19 @@
-{"name":"Emoji#833","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/833.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/833.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Running Shoe \ud83d\udc5f",
+    "description": "Running Shoe",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/833.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc5f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f45f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

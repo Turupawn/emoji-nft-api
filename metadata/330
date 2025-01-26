@@ -1,1 +1,19 @@
-{"name":"Emoji#330","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/330.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/330.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Globe Showing Europe-Africa \ud83c\udf0d",
+    "description": "Globe Showing Europe-Africa",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/330.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf0d"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f30d"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

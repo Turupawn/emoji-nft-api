@@ -1,1 +1,19 @@
-{"name":"Emoji#2353","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2353.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2353.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Orange Square \ud83d\udfe7",
+    "description": "Orange Square",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2353.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udfe7"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f7e7"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

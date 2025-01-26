@@ -1,1 +1,19 @@
-{"name":"Emoji#618","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/618.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/618.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Volleyball \ud83c\udfd0",
+    "description": "Volleyball",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/618.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfd0"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3d0"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

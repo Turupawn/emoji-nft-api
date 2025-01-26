@@ -1,1 +1,19 @@
-{"name":"Emoji#2303","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2303.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2303.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Passport Control \ud83d\udec2",
+    "description": "Passport Control",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2303.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udec2"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f6c2"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

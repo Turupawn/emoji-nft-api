@@ -1,1 +1,19 @@
-{"name":"Emoji#3622","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3622.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3622.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Raised Hand Dark Skin Tone \u270b\ud83c\udfff",
+    "description": "Raised Hand Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3622.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u270b\ud83c\udfff"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "270b-1f3ff"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

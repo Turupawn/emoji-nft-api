@@ -1,1 +1,19 @@
-{"name":"Emoji#3463","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3463.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3463.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Up-Down Arrow \u2195",
+    "description": "Up-Down Arrow",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3463.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u2195"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "2195"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#775","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/775.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/775.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Backhand Index Pointing Right Dark Skin Tone \ud83d\udc49\ud83c\udfff",
+    "description": "Backhand Index Pointing Right Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/775.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc49\ud83c\udfff"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f449-1f3ff"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

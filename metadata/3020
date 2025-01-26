@@ -1,1 +1,19 @@
-{"name":"Emoji#3020","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3020.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3020.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Student Dark Skin Tone \ud83e\uddd1\ud83c\udfff\u200d\ud83c\udf93",
+    "description": "Student Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3020.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddd1\ud83c\udfff\u200d\ud83c\udf93"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9d1-1f3ff-200d-1f393"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

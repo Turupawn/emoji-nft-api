@@ -1,1 +1,19 @@
-{"name":"Emoji#5","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/5.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/5.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "O Button (Blood Type) \ud83c\udd7e",
+    "description": "O Button (Blood Type)",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/5.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udd7e"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f17e"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

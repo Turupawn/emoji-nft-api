@@ -1,1 +1,19 @@
-{"name":"Emoji#2849","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2849.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2849.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Deaf Person Medium Skin Tone \ud83e\uddcf\ud83c\udffd",
+    "description": "Deaf Person Medium Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2849.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddcf\ud83c\udffd"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9cf-1f3fd"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

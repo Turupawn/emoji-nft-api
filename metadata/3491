@@ -1,1 +1,19 @@
-{"name":"Emoji#3491","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3491.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3491.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "White Small Square \u25ab",
+    "description": "White Small Square",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3491.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u25ab"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "25ab"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

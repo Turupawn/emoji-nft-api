@@ -1,1 +1,19 @@
-{"name":"Emoji#657","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/657.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/657.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Wales \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc77\udb40\udc6c\udb40\udc73\udb40\udc7f",
+    "description": "Wales",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/657.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc77\udb40\udc6c\udb40\udc73\udb40\udc7f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3f4-e0067-e0062-e0077-e006c-e0073-e007f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

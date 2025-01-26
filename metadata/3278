@@ -1,1 +1,19 @@
-{"name":"Emoji#3278","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3278.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3278.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Test Tube \ud83e\uddea",
+    "description": "Test Tube",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3278.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddea"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9ea"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

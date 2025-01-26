@@ -1,1 +1,19 @@
-{"name":"Emoji#2685","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2685.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2685.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Duck \ud83e\udd86",
+    "description": "Duck",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2685.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd86"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f986"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

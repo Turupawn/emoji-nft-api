@@ -1,1 +1,19 @@
-{"name":"Emoji#2317","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2317.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2317.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Place Of Worship \ud83d\uded0",
+    "description": "Place Of Worship",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2317.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\uded0"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f6d0"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

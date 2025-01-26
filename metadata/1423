@@ -1,1 +1,19 @@
-{"name":"Emoji#1423","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1423.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1423.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Women Holding Hands \ud83d\udc6d",
+    "description": "Women Holding Hands",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1423.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc6d"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f46d"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

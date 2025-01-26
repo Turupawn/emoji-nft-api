@@ -1,1 +1,19 @@
-{"name":"Emoji#672","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/672.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/672.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Water Buffalo \ud83d\udc03",
+    "description": "Water Buffalo",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/672.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc03"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f403"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

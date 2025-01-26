@@ -1,1 +1,19 @@
-{"name":"Emoji#1825","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1825.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1825.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Crystal Ball \ud83d\udd2e",
+    "description": "Crystal Ball",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1825.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd2e"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f52e"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

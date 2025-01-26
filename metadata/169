@@ -1,1 +1,19 @@
-{"name":"Emoji#169","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/169.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/169.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Latvia \ud83c\uddf1\ud83c\uddfb",
+    "description": "Latvia",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/169.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddf1\ud83c\uddfb"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1f1-1f1fb"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

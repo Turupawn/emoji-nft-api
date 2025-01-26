@@ -1,1 +1,19 @@
-{"name":"Emoji#3629","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3629.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3629.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Victory Hand \u270c",
+    "description": "Victory Hand",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3629.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u270c"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "270c"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#184","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/184.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/184.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Northern Mariana Islands \ud83c\uddf2\ud83c\uddf5",
+    "description": "Northern Mariana Islands",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/184.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddf2\ud83c\uddf5"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1f2-1f1f5"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

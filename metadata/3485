@@ -1,1 +1,19 @@
-{"name":"Emoji#3485","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3485.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3485.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Hourglass Not Done \u23f3",
+    "description": "Hourglass Not Done",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3485.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u23f3"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "23f3"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

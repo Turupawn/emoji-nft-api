@@ -1,1 +1,19 @@
-{"name":"Emoji#1962","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1962.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1962.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Ballot Box With Ballot \ud83d\uddf3",
+    "description": "Ballot Box With Ballot",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1962.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\uddf3"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f5f3"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#696","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/696.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/696.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Octopus \ud83d\udc19",
+    "description": "Octopus",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/696.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc19"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f419"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

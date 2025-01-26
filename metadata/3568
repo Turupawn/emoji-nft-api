@@ -1,1 +1,19 @@
-{"name":"Emoji#3568","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3568.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3568.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Ophiuchus \u26ce",
+    "description": "Ophiuchus",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3568.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u26ce"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "26ce"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

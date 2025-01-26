@@ -1,1 +1,19 @@
-{"name":"Emoji#232","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/232.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/232.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Rwanda \ud83c\uddf7\ud83c\uddfc",
+    "description": "Rwanda",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/232.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddf7\ud83c\uddfc"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1f7-1f1fc"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

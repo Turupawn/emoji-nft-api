@@ -1,1 +1,19 @@
-{"name":"Emoji#1464","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1464.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1464.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Man Light Skin Tone Blond Hair \ud83d\udc71\ud83c\udffb\u200d\u2642\ufe0f",
+    "description": "Man Light Skin Tone Blond Hair",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1464.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc71\ud83c\udffb\u200d\u2642\ufe0f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f471-1f3fb-200d-2642-fe0f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

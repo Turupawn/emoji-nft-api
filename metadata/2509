@@ -1,1 +1,19 @@
-{"name":"Emoji#2509","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2509.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2509.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person In Tuxedo \ud83e\udd35",
+    "description": "Person In Tuxedo",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2509.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd35"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f935"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

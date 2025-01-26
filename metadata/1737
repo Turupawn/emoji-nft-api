@@ -1,1 +1,19 @@
-{"name":"Emoji#1737","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1737.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1737.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Closed Book \ud83d\udcd5",
+    "description": "Closed Book",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1737.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udcd5"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4d5"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#3061","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3061.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3061.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Artist \ud83e\uddd1\u200d\ud83c\udfa8",
+    "description": "Artist",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3061.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddd1\u200d\ud83c\udfa8"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9d1-200d-1f3a8"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

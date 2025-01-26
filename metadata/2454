@@ -1,1 +1,19 @@
-{"name":"Emoji#2454","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2454.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2454.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Face With Raised Eyebrow \ud83e\udd28",
+    "description": "Face With Raised Eyebrow",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2454.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd28"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f928"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

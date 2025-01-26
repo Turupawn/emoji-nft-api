@@ -1,1 +1,19 @@
-{"name":"Emoji#2551","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2551.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2551.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person Cartwheeling \ud83e\udd38",
+    "description": "Person Cartwheeling",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2551.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd38"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f938"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

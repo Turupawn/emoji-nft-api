@@ -1,1 +1,19 @@
-{"name":"Emoji#2785","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2785.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2785.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Ear With Hearing Aid Medium-Dark Skin Tone \ud83e\uddbb\ud83c\udffe",
+    "description": "Ear With Hearing Aid Medium-Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2785.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddbb\ud83c\udffe"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9bb-1f3fe"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

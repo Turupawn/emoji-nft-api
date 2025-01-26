@@ -1,1 +1,19 @@
-{"name":"Emoji#314","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/314.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/314.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Japanese Open For Business Button \ud83c\ude3a",
+    "description": "Japanese Open For Business Button",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/314.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\ude3a"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f23a"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

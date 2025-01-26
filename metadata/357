@@ -1,1 +1,19 @@
-{"name":"Emoji#357","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/357.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/357.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Tornado \ud83c\udf2a",
+    "description": "Tornado",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/357.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf2a"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f32a"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

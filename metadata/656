@@ -1,1 +1,19 @@
-{"name":"Emoji#656","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/656.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/656.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Scotland \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f",
+    "description": "Scotland",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/656.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc73\udb40\udc63\udb40\udc74\udb40\udc7f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3f4-e0067-e0062-e0073-e0063-e0074-e007f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#3383","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3383.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3383.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Fondue \ud83e\uded5",
+    "description": "Fondue",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3383.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uded5"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1fad5"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

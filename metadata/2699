@@ -1,1 +1,19 @@
-{"name":"Emoji#2699","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2699.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2699.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Hedgehog \ud83e\udd94",
+    "description": "Hedgehog",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2699.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd94"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f994"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

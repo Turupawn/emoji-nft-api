@@ -1,1 +1,19 @@
-{"name":"Emoji#3340","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3340.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3340.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Placard \ud83e\udea7",
+    "description": "Placard",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3340.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udea7"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1faa7"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

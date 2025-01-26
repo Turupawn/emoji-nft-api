@@ -1,1 +1,19 @@
-{"name":"Emoji#1936","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1936.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1936.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Middle Finger \ud83d\udd95",
+    "description": "Middle Finger",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1936.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd95"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f595"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

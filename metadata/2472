@@ -1,1 +1,19 @@
-{"name":"Emoji#2472","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2472.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2472.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Breast-Feeding Dark Skin Tone \ud83e\udd31\ud83c\udfff",
+    "description": "Breast-Feeding Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2472.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd31\ud83c\udfff"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f931-1f3ff"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

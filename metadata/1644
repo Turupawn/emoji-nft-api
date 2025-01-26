@@ -1,1 +1,19 @@
-{"name":"Emoji#1644","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1644.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1644.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person Getting Haircut \ud83d\udc87",
+    "description": "Person Getting Haircut",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1644.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc87"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f487"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

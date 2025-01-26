@@ -1,1 +1,19 @@
-{"name":"Emoji#1726","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1726.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1726.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Bar Chart \ud83d\udcca",
+    "description": "Bar Chart",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1726.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udcca"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4ca"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

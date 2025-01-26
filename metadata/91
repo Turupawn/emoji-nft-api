@@ -1,1 +1,19 @@
-{"name":"Emoji#91","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/91.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/91.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Western Sahara \ud83c\uddea\ud83c\udded",
+    "description": "Western Sahara",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/91.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddea\ud83c\udded"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1ea-1f1ed"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

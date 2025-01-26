@@ -1,1 +1,19 @@
-{"name":"Emoji#691","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/691.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/691.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Service Dog \ud83d\udc15\u200d\ud83e\uddba",
+    "description": "Service Dog",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/691.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc15\u200d\ud83e\uddba"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f415-200d-1f9ba"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

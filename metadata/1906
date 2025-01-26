@@ -1,1 +1,19 @@
-{"name":"Emoji#1906","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1906.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1906.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Detective Dark Skin Tone \ud83d\udd75\ud83c\udfff",
+    "description": "Detective Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1906.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd75\ud83c\udfff"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f575-1f3ff"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

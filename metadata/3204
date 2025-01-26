@@ -1,1 +1,19 @@
-{"name":"Emoji#3204","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3204.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3204.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Fairy Dark Skin Tone \ud83e\uddda\ud83c\udfff",
+    "description": "Fairy Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3204.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddda\ud83c\udfff"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9da-1f3ff"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

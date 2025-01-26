@@ -1,1 +1,19 @@
-{"name":"Emoji#3279","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3279.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3279.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Petri Dish \ud83e\uddeb",
+    "description": "Petri Dish",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3279.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddeb"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9eb"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

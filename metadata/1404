@@ -1,1 +1,19 @@
-{"name":"Emoji#1404","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1404.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1404.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Woman \ud83d\udc69",
+    "description": "Woman",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1404.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc69"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f469"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

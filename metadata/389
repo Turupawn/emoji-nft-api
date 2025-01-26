@@ -1,1 +1,19 @@
-{"name":"Emoji#389","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/389.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/389.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Tangerine \ud83c\udf4a",
+    "description": "Tangerine",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/389.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf4a"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f34a"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

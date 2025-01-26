@@ -1,1 +1,19 @@
-{"name":"Emoji#3646","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3646.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3646.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Sparkle \u2747",
+    "description": "Sparkle",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3646.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u2747"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "2747"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

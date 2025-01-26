@@ -1,1 +1,19 @@
-{"name":"Emoji#686","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/686.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/686.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Goat \ud83d\udc10",
+    "description": "Goat",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/686.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc10"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f410"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

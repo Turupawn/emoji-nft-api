@@ -1,1 +1,19 @@
-{"name":"Emoji#1922","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1922.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1922.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Fountain Pen \ud83d\udd8b",
+    "description": "Fountain Pen",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1922.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd8b"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f58b"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

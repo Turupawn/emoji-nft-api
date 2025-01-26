@@ -1,1 +1,19 @@
-{"name":"Emoji#3339","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3339.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3339.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Headstone \ud83e\udea6",
+    "description": "Headstone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3339.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udea6"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1faa6"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#3507","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3507.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3507.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Shamrock \u2618",
+    "description": "Shamrock",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3507.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u2618"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "2618"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

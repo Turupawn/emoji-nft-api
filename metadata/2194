@@ -1,1 +1,19 @@
-{"name":"Emoji#2194","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2194.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2194.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Mountain Railway \ud83d\ude9e",
+    "description": "Mountain Railway",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2194.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude9e"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f69e"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#3297","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3297.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3297.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Sponge \ud83e\uddfd",
+    "description": "Sponge",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3297.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddfd"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9fd"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

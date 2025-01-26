@@ -1,1 +1,19 @@
-{"name":"Emoji#2293","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2293.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2293.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Toilet \ud83d\udebd",
+    "description": "Toilet",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2293.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udebd"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f6bd"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

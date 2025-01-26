@@ -1,1 +1,19 @@
-{"name":"Emoji#392","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/392.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/392.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Pineapple \ud83c\udf4d",
+    "description": "Pineapple",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/392.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf4d"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f34d"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

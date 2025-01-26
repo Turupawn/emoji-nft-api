@@ -1,1 +1,19 @@
-{"name":"Emoji#296","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/296.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/296.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Mayotte \ud83c\uddfe\ud83c\uddf9",
+    "description": "Mayotte",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/296.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddfe\ud83c\uddf9"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1fe-1f1f9"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

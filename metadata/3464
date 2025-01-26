@@ -1,1 +1,19 @@
-{"name":"Emoji#3464","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3464.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3464.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Up-Left Arrow \u2196",
+    "description": "Up-Left Arrow",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3464.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u2196"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "2196"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

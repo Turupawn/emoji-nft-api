@@ -1,1 +1,19 @@
-{"name":"Emoji#646","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/646.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/646.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Department Store \ud83c\udfec",
+    "description": "Department Store",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/646.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfec"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3ec"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

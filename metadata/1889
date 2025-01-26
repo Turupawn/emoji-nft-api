@@ -1,1 +1,19 @@
-{"name":"Emoji#1889","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1889.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1889.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person In Suit Levitating\u200dFemale Sign \ud83d\udd74\ufe0f\u200d\u2640\ufe0f",
+    "description": "Person In Suit Levitating\u200dFemale Sign",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1889.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd74\ufe0f\u200d\u2640\ufe0f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f574-fe0f-200d-2640-fe0f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

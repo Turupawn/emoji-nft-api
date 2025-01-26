@@ -1,1 +1,19 @@
-{"name":"Emoji#2525","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2525.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2525.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Woman Shrugging Medium-Dark Skin Tone \ud83e\udd37\ud83c\udffe\u200d\u2640\ufe0f",
+    "description": "Woman Shrugging Medium-Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2525.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd37\ud83c\udffe\u200d\u2640\ufe0f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f937-1f3fe-200d-2640-fe0f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#3377","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3377.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3377.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person With Crown \ud83e\udec5",
+    "description": "Person With Crown",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3377.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udec5"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1fac5"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

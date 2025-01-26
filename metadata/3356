@@ -1,1 +1,19 @@
-{"name":"Emoji#3356","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3356.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3356.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Nest With Eggs \ud83e\udeba",
+    "description": "Nest With Eggs",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3356.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udeba"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1faba"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

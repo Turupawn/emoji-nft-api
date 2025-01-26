@@ -1,1 +1,19 @@
-{"name":"Emoji#3590","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3590.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3590.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person Bouncing Ball Light Skin Tone \u26f9\ud83c\udffb",
+    "description": "Person Bouncing Ball Light Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3590.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u26f9\ud83c\udffb"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "26f9-1f3fb"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

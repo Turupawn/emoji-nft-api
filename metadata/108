@@ -1,1 +1,19 @@
-{"name":"Emoji#108","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/108.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/108.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "French Guiana \ud83c\uddec\ud83c\uddeb",
+    "description": "French Guiana",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/108.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddec\ud83c\uddeb"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1ec-1f1eb"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

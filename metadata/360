@@ -1,1 +1,19 @@
-{"name":"Emoji#360","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/360.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/360.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Hot Dog \ud83c\udf2d",
+    "description": "Hot Dog",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/360.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf2d"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f32d"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

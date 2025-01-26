@@ -1,1 +1,19 @@
-{"name":"Emoji#2664","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2664.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2664.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Cold Face \ud83e\udd76",
+    "description": "Cold Face",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2664.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd76"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f976"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

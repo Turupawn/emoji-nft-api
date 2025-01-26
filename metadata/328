@@ -1,1 +1,19 @@
-{"name":"Emoji#328","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/328.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/328.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Volcano \ud83c\udf0b",
+    "description": "Volcano",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/328.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf0b"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f30b"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

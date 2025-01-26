@@ -1,1 +1,19 @@
-{"name":"Emoji#519","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/519.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/519.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Man Running Medium-Light Skin Tone \ud83c\udfc3\ud83c\udffc\u200d\u2642\ufe0f",
+    "description": "Man Running Medium-Light Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/519.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfc3\ud83c\udffc\u200d\u2642\ufe0f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3c3-1f3fc-200d-2642-fe0f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

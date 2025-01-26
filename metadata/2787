@@ -1,1 +1,19 @@
-{"name":"Emoji#2787","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2787.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2787.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Ear With Hearing Aid \ud83e\uddbb",
+    "description": "Ear With Hearing Aid",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2787.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddbb"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9bb"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

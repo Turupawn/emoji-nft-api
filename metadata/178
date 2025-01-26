@@ -1,1 +1,19 @@
-{"name":"Emoji#178","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/178.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/178.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Marshall Islands \ud83c\uddf2\ud83c\udded",
+    "description": "Marshall Islands",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/178.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddf2\ud83c\udded"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1f2-1f1ed"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

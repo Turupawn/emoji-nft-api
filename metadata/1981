@@ -1,1 +1,19 @@
-{"name":"Emoji#1981","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1981.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1981.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Relieved Face \ud83d\ude0c",
+    "description": "Relieved Face",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1981.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude0c"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f60c"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

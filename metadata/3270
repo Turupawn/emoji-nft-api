@@ -1,1 +1,19 @@
-{"name":"Emoji#3270","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3270.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3270.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Billed Cap \ud83e\udde2",
+    "description": "Billed Cap",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3270.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udde2"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9e2"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

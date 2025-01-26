@@ -1,1 +1,19 @@
-{"name":"Emoji#214","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/214.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/214.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Papua New Guinea \ud83c\uddf5\ud83c\uddec",
+    "description": "Papua New Guinea",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/214.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddf5\ud83c\uddec"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1f5-1f1ec"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

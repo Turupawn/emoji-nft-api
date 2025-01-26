@@ -1,1 +1,19 @@
-{"name":"Emoji#1701","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1701.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1701.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Currency Exchange \ud83d\udcb1",
+    "description": "Currency Exchange",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1701.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udcb1"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4b1"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

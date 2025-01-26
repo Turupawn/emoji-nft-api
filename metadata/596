@@ -1,1 +1,19 @@
-{"name":"Emoji#596","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/596.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/596.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person Lifting Weights \ud83c\udfcb",
+    "description": "Person Lifting Weights",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/596.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfcb"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3cb"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

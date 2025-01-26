@@ -1,1 +1,19 @@
-{"name":"Emoji#1678","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1678.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1678.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Heart Decoration \ud83d\udc9f",
+    "description": "Heart Decoration",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1678.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc9f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f49f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

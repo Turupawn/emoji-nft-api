@@ -1,1 +1,19 @@
-{"name":"Emoji#2781","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2781.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2781.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Safety Vest \ud83e\uddba",
+    "description": "Safety Vest",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2781.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddba"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9ba"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

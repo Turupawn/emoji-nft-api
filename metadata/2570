@@ -1,1 +1,19 @@
-{"name":"Emoji#2570","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2570.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2570.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person Fencing \ud83e\udd3a",
+    "description": "Person Fencing",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2570.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd3a"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f93a"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

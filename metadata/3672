@@ -1,0 +1,19 @@
+{
+    "name": "Hollow Red Circle \u2b55",
+    "description": "Hollow Red Circle",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3672.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u2b55"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "2b55"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

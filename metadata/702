@@ -1,1 +1,19 @@
-{"name":"Emoji#702","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/702.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/702.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Fish \ud83d\udc1f",
+    "description": "Fish",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/702.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc1f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f41f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

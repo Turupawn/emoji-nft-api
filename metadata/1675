@@ -1,1 +1,19 @@
-{"name":"Emoji#1675","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1675.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1675.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Purple Heart \ud83d\udc9c",
+    "description": "Purple Heart",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1675.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc9c"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f49c"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "\ue50a \ue50a",
+    "description": "\ue50a",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3689.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ue50a"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "e50a"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

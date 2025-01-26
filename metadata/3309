@@ -1,1 +1,19 @@
-{"name":"Emoji#3309","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3309.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3309.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Crutch \ud83e\ude7c",
+    "description": "Crutch",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3309.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\ude7c"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1fa7c"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

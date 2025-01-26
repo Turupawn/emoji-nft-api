@@ -1,1 +1,19 @@
-{"name":"Emoji#821","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/821.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/821.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Glasses \ud83d\udc53",
+    "description": "Glasses",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/821.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc53"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f453"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

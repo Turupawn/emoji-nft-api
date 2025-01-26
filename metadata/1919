@@ -1,1 +1,19 @@
-{"name":"Emoji#1919","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1919.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1919.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Man Dancing \ud83d\udd7a",
+    "description": "Man Dancing",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1919.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd7a"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f57a"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

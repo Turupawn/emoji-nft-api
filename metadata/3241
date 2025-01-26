@@ -1,1 +1,19 @@
-{"name":"Emoji#3241","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3241.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3241.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Mermaid \ud83e\udddc\u200d\u2640\ufe0f",
+    "description": "Mermaid",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3241.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udddc\u200d\u2640\ufe0f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9dc-200d-2640-fe0f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

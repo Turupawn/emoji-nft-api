@@ -1,1 +1,19 @@
-{"name":"Emoji#332","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/332.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/332.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Globe Showing Asia-Australia \ud83c\udf0f",
+    "description": "Globe Showing Asia-Australia",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/332.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf0f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f30f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

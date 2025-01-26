@@ -1,1 +1,19 @@
-{"name":"Emoji#1794","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1794.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1794.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Locked With Pen \ud83d\udd0f",
+    "description": "Locked With Pen",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1794.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd0f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f50f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

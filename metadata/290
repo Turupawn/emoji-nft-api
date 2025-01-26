@@ -1,1 +1,19 @@
-{"name":"Emoji#290","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/290.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/290.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Wallis & Futuna \ud83c\uddfc\ud83c\uddeb",
+    "description": "Wallis & Futuna",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/290.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddfc\ud83c\uddeb"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1fc-1f1eb"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

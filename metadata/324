@@ -1,1 +1,19 @@
-{"name":"Emoji#324","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/324.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/324.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Sunset \ud83c\udf07",
+    "description": "Sunset",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/324.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf07"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f307"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

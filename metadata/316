@@ -1,1 +1,19 @@
-{"name":"Emoji#316","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/316.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/316.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Japanese Acceptable Button \ud83c\ude51",
+    "description": "Japanese Acceptable Button",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/316.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\ude51"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f251"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#475","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/475.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/475.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Carousel Horse \ud83c\udfa0",
+    "description": "Carousel Horse",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/475.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfa0"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3a0"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

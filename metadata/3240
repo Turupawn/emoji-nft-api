@@ -1,1 +1,19 @@
-{"name":"Emoji#3240","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3240.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3240.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Merperson Dark Skin Tone \ud83e\udddc\ud83c\udfff",
+    "description": "Merperson Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3240.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udddc\ud83c\udfff"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9dc-1f3ff"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

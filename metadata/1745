@@ -1,1 +1,19 @@
-{"name":"Emoji#1745","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1745.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1745.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Memo \ud83d\udcdd",
+    "description": "Memo",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1745.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udcdd"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4dd"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

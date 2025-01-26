@@ -1,1 +1,19 @@
-{"name":"Emoji#2804","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2804.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2804.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Troll \ud83e\uddcc",
+    "description": "Troll",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2804.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddcc"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9cc"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

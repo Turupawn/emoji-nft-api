@@ -1,1 +1,19 @@
-{"name":"Emoji#262","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/262.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/262.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Tajikistan \ud83c\uddf9\ud83c\uddef",
+    "description": "Tajikistan",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/262.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddf9\ud83c\uddef"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1f9-1f1ef"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#2708","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2708.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2708.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Raccoon \ud83e\udd9d",
+    "description": "Raccoon",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2708.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd9d"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f99d"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

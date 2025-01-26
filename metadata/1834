@@ -1,1 +1,19 @@
-{"name":"Emoji#1834","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1834.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1834.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Large Blue Diamond \ud83d\udd37",
+    "description": "Large Blue Diamond",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1834.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd37"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f537"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

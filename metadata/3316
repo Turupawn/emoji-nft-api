@@ -1,1 +1,19 @@
-{"name":"Emoji#3316","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3316.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3316.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Nesting Dolls \ud83e\ude86",
+    "description": "Nesting Dolls",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3316.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\ude86"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1fa86"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

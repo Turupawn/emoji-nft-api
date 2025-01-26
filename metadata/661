@@ -1,1 +1,19 @@
-{"name":"Emoji#661","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/661.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/661.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Badminton \ud83c\udff8",
+    "description": "Badminton",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/661.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udff8"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3f8"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#2456","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2456.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2456.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Zany Face \ud83e\udd2a",
+    "description": "Zany Face",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2456.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd2a"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f92a"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

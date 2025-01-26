@@ -1,1 +1,19 @@
-{"name":"Emoji#873","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/873.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/873.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Man Light Skin Tone Curly Hair \ud83d\udc68\ud83c\udffb\u200d\ud83e\uddb1",
+    "description": "Man Light Skin Tone Curly Hair",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/873.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc68\ud83c\udffb\u200d\ud83e\uddb1"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f468-1f3fb-200d-1f9b1"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#1743","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1743.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1743.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Name Badge \ud83d\udcdb",
+    "description": "Name Badge",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1743.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udcdb"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4db"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

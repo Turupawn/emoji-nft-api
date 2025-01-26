@@ -1,1 +1,19 @@
-{"name":"Emoji#13","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/13.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/13.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Ng Button \ud83c\udd96",
+    "description": "Ng Button",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/13.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udd96"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f196"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

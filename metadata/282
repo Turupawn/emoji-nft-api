@@ -1,1 +1,19 @@
-{"name":"Emoji#282","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/282.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/282.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Vatican City \ud83c\uddfb\ud83c\udde6",
+    "description": "Vatican City",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/282.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddfb\ud83c\udde6"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1fb-1f1e6"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

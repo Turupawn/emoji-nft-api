@@ -1,1 +1,19 @@
-{"name":"Emoji#165","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/165.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/165.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Liberia \ud83c\uddf1\ud83c\uddf7",
+    "description": "Liberia",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/165.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\uddf1\ud83c\uddf7"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f1f1-1f1f7"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

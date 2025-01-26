@@ -1,1 +1,19 @@
-{"name":"Emoji#342","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/342.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/342.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Crescent Moon \ud83c\udf19",
+    "description": "Crescent Moon",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/342.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf19"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f319"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

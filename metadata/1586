@@ -1,1 +1,19 @@
-{"name":"Emoji#1586","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1586.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1586.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Guard Medium Skin Tone \ud83d\udc82\ud83c\udffd",
+    "description": "Guard Medium Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1586.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc82\ud83c\udffd"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f482-1f3fd"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

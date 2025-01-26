@@ -1,1 +1,19 @@
-{"name":"Emoji#3222","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3222.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3222.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Vampire Dark Skin Tone \ud83e\udddb\ud83c\udfff",
+    "description": "Vampire Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3222.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udddb\ud83c\udfff"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9db-1f3ff"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

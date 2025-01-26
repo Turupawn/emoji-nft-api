@@ -1,1 +1,19 @@
-{"name":"Emoji#731","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/731.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/731.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Bear \ud83d\udc3b",
+    "description": "Bear",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/731.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc3b"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f43b"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

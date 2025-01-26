@@ -1,1 +1,19 @@
-{"name":"Emoji#533","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/533.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/533.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Woman Surfing Light Skin Tone \ud83c\udfc4\ud83c\udffb\u200d\u2640\ufe0f",
+    "description": "Woman Surfing Light Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/533.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfc4\ud83c\udffb\u200d\u2640\ufe0f"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3c4-1f3fb-200d-2640-fe0f"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

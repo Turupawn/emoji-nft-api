@@ -1,1 +1,19 @@
-{"name":"Emoji#3441","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3441.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3441.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Palm Up Hand Medium-Light Skin Tone \ud83e\udef4\ud83c\udffc",
+    "description": "Palm Up Hand Medium-Light Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3441.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udef4\ud83c\udffc"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1faf4-1f3fc"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

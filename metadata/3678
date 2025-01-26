@@ -1,0 +1,19 @@
+{
+    "name": "Japanese Congratulations Button \u3297",
+    "description": "Japanese Congratulations Button",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3678.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u3297"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "3297"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

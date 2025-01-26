@@ -1,1 +1,19 @@
-{"name":"Emoji#1528","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1528.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1528.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Construction Worker Medium-Light Skin Tone \ud83d\udc77\ud83c\udffc",
+    "description": "Construction Worker Medium-Light Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1528.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc77\ud83c\udffc"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f477-1f3fc"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

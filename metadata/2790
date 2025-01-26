@@ -1,1 +1,19 @@
-{"name":"Emoji#2790","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2790.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2790.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Mechanical Arm \ud83e\uddbe",
+    "description": "Mechanical Arm",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2790.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddbe"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9be"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

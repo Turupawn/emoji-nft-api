@@ -1,1 +1,19 @@
-{"name":"Emoji#3427","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3427.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3427.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Rightwards Hand \ud83e\udef1",
+    "description": "Rightwards Hand",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3427.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udef1"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1faf1"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#2313","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2313.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2313.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person In Bed \ud83d\udecc",
+    "description": "Person In Bed",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2313.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udecc"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f6cc"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

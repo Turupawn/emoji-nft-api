@@ -1,0 +1,19 @@
+{
+    "name": "Part Alternation Mark \u303d",
+    "description": "Part Alternation Mark",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3675.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u303d"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "303d"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

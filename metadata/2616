@@ -1,1 +1,19 @@
-{"name":"Emoji#2616","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2616.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2616.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Goal Net \ud83e\udd45",
+    "description": "Goal Net",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2616.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd45"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f945"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

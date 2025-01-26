@@ -1,1 +1,19 @@
-{"name":"Emoji#1137","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1137.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1137.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Couple With Heart Woman Woman Light Skin Tone Dark Skin Tone \ud83d\udc69\ud83c\udffb\u200d\u2764\ufe0f\u200d\ud83d\udc69\ud83c\udfff",
+    "description": "Couple With Heart Woman Woman Light Skin Tone Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1137.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc69\ud83c\udffb\u200d\u2764\ufe0f\u200d\ud83d\udc69\ud83c\udfff"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f469-1f3fb-200d-2764-fe0f-200d-1f469-1f3ff"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

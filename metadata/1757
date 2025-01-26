@@ -1,1 +1,19 @@
-{"name":"Emoji#1757","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1757.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1757.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Envelope With Arrow \ud83d\udce9",
+    "description": "Envelope With Arrow",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1757.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udce9"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4e9"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

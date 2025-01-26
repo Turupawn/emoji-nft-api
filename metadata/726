@@ -1,1 +1,19 @@
-{"name":"Emoji#726","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/726.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/726.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Pig Face \ud83d\udc37",
+    "description": "Pig Face",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/726.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc37"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f437"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

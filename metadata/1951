@@ -1,1 +1,19 @@
-{"name":"Emoji#1951","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1951.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1951.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "File Cabinet \ud83d\uddc4",
+    "description": "File Cabinet",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1951.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\uddc4"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f5c4"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

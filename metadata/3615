@@ -1,1 +1,19 @@
-{"name":"Emoji#3615","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3615.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3615.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Raised Fist Medium-Dark Skin Tone \u270a\ud83c\udffe",
+    "description": "Raised Fist Medium-Dark Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3615.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u270a\ud83c\udffe"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "270a-1f3fe"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#472","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/472.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/472.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Control Knobs \ud83c\udf9b",
+    "description": "Control Knobs",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/472.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf9b"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f39b"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

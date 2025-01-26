@@ -1,1 +1,19 @@
-{"name":"Emoji#2022","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2022.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2022.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Sleeping Face \ud83d\ude34",
+    "description": "Sleeping Face",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2022.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude34"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f634"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

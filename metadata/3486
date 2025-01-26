@@ -1,1 +1,19 @@
-{"name":"Emoji#3486","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3486.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3486.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Pause Button \u23f8",
+    "description": "Pause Button",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3486.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u23f8"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "23f8"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

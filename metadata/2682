@@ -1,1 +1,19 @@
-{"name":"Emoji#2682","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2682.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2682.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Turkey \ud83e\udd83",
+    "description": "Turkey",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2682.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd83"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f983"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

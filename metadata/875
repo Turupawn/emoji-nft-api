@@ -1,1 +1,19 @@
-{"name":"Emoji#875","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/875.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/875.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Man Light Skin Tone White Hair \ud83d\udc68\ud83c\udffb\u200d\ud83e\uddb3",
+    "description": "Man Light Skin Tone White Hair",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/875.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc68\ud83c\udffb\u200d\ud83e\uddb3"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f468-1f3fb-200d-1f9b3"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

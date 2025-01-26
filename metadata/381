@@ -1,1 +1,19 @@
-{"name":"Emoji#381","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/381.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/381.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Fallen Leaf \ud83c\udf42",
+    "description": "Fallen Leaf",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/381.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf42"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f342"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

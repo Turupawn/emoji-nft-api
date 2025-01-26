@@ -1,1 +1,19 @@
-{"name":"Emoji#1802","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1802.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1802.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Link \ud83d\udd17",
+    "description": "Link",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1802.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd17"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f517"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

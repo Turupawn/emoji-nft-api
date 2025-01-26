@@ -1,1 +1,19 @@
-{"name":"Emoji#3555","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3555.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3555.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Fleur-De-Lis \u269c",
+    "description": "Fleur-De-Lis",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3555.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u269c"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "269c"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#1831","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1831.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1831.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Red Circle \ud83d\udd34",
+    "description": "Red Circle",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1831.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd34"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f534"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

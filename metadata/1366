@@ -1,1 +1,19 @@
-{"name":"Emoji#1366","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1366.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1366.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Woman Cook \ud83d\udc69\u200d\ud83c\udf73",
+    "description": "Woman Cook",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1366.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc69\u200d\ud83c\udf73"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f469-200d-1f373"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

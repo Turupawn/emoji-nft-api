@@ -1,1 +1,19 @@
-{"name":"Emoji#1671","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1671.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1671.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Heart With Arrow \ud83d\udc98",
+    "description": "Heart With Arrow",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1671.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc98"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f498"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#407","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/407.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/407.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Steaming Bowl \ud83c\udf5c",
+    "description": "Steaming Bowl",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/407.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf5c"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f35c"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

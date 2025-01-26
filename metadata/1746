@@ -1,1 +1,19 @@
-{"name":"Emoji#1746","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1746.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1746.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Telephone Receiver \ud83d\udcde",
+    "description": "Telephone Receiver",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1746.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udcde"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4de"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

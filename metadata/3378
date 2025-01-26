@@ -1,1 +1,19 @@
-{"name":"Emoji#3378","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3378.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3378.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Blueberries \ud83e\uded0",
+    "description": "Blueberries",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3378.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uded0"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1fad0"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

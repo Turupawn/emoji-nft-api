@@ -1,1 +1,19 @@
-{"name":"Emoji#1797","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1797.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1797.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Locked \ud83d\udd12",
+    "description": "Locked",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1797.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd12"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f512"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

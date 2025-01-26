@@ -1,1 +1,19 @@
-{"name":"Emoji#2613","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2613.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2613.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Clinking Glasses \ud83e\udd42",
+    "description": "Clinking Glasses",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2613.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd42"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f942"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

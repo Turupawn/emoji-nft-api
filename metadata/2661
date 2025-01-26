@@ -1,1 +1,19 @@
-{"name":"Emoji#2661","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2661.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2661.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Partying Face \ud83e\udd73",
+    "description": "Partying Face",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2661.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd73"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f973"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

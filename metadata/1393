@@ -1,1 +1,19 @@
-{"name":"Emoji#1393","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1393.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1393.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Woman Bald \ud83d\udc69\u200d\ud83e\uddb2",
+    "description": "Woman Bald",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1393.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc69\u200d\ud83e\uddb2"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f469-200d-1f9b2"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

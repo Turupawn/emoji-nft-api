@@ -1,1 +1,19 @@
-{"name":"Emoji#1760","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1760.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1760.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Open Mailbox With Raised Flag \ud83d\udcec",
+    "description": "Open Mailbox With Raised Flag",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1760.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udcec"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4ec"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

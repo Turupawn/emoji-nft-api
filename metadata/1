@@ -1,1 +1,19 @@
-{"name":"Emoji#1","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Mahjong Red Dragon \ud83c\udc04",
+    "description": "Mahjong Red Dragon",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udc04"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f004"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

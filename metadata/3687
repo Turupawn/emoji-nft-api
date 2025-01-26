@@ -1,0 +1,19 @@
+{
+    "name": "Copyright \u00a9",
+    "description": "Copyright",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3687.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u00a9"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "a9"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#3350","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3350.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3350.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Potted Plant \ud83e\udeb4",
+    "description": "Potted Plant",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3350.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udeb4"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1fab4"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#3063","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3063.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3063.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Factory Worker \ud83e\uddd1\u200d\ud83c\udfed",
+    "description": "Factory Worker",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3063.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddd1\u200d\ud83c\udfed"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9d1-200d-1f3ed"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

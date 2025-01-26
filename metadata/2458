@@ -1,1 +1,19 @@
-{"name":"Emoji#2458","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2458.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2458.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Face With Symbols On Mouth \ud83e\udd2c",
+    "description": "Face With Symbols On Mouth",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2458.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd2c"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f92c"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

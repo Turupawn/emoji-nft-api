@@ -1,1 +1,19 @@
-{"name":"Emoji#3344","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3344.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3344.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Low Battery \ud83e\udeab",
+    "description": "Low Battery",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3344.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udeab"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1faab"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#2491","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2491.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2491.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Prince \ud83e\udd34",
+    "description": "Prince",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2491.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udd34"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f934"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

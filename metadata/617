@@ -1,1 +1,19 @@
-{"name":"Emoji#617","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/617.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/617.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Cricket Game \ud83c\udfcf",
+    "description": "Cricket Game",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/617.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfcf"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3cf"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

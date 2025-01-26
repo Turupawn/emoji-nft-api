@@ -1,1 +1,19 @@
-{"name":"Emoji#2115","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2115.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2115.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person Raising Hand \ud83d\ude4b",
+    "description": "Person Raising Hand",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2115.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude4b"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f64b"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

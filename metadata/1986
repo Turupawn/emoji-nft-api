@@ -1,1 +1,19 @@
-{"name":"Emoji#1986","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1986.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1986.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Expressionless Face \ud83d\ude11",
+    "description": "Expressionless Face",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1986.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude11"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f611"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

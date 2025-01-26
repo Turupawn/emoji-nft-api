@@ -1,1 +1,19 @@
-{"name":"Emoji#1775","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1775.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1775.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Radio \ud83d\udcfb",
+    "description": "Radio",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1775.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udcfb"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4fb"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

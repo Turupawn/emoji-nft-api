@@ -1,1 +1,19 @@
-{"name":"Emoji#3312","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3312.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3312.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Parachute \ud83e\ude82",
+    "description": "Parachute",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3312.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\ude82"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1fa82"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

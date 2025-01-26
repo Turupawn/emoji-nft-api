@@ -1,1 +1,19 @@
-{"name":"Emoji#628","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/628.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/628.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Derelict House \ud83c\udfda",
+    "description": "Derelict House",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/628.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfda"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3da"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#616","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/616.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/616.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Racing Car \ud83c\udfce",
+    "description": "Racing Car",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/616.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udfce"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3ce"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

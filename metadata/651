@@ -1,1 +1,19 @@
-{"name":"Emoji#651","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/651.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/651.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Rainbow Flag \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+    "description": "Rainbow Flag",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/651.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f3f3-fe0f-200d-1f308"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

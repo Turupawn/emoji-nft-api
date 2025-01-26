@@ -1,1 +1,19 @@
-{"name":"Emoji#1710","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1710.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1710.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Seat \ud83d\udcba",
+    "description": "Seat",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1710.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udcba"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4ba"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

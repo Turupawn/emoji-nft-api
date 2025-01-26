@@ -1,1 +1,19 @@
-{"name":"Emoji#2726","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2726.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2726.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "White Cane \ud83e\uddaf",
+    "description": "White Cane",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2726.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddaf"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9af"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

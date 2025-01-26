@@ -1,1 +1,19 @@
-{"name":"Emoji#404","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/404.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/404.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Rice Ball \ud83c\udf59",
+    "description": "Rice Ball",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/404.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83c\udf59"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f359"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

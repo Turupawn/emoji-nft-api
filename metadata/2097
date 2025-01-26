@@ -1,1 +1,19 @@
-{"name":"Emoji#2097","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2097.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2097.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Speak-No-Evil Monkey \ud83d\ude4a",
+    "description": "Speak-No-Evil Monkey",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2097.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude4a"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f64a"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

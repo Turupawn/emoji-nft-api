@@ -1,1 +1,19 @@
-{"name":"Emoji#1927","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1927.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1927.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Hand With Fingers Splayed Medium Skin Tone \ud83d\udd90\ud83c\udffd",
+    "description": "Hand With Fingers Splayed Medium Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1927.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udd90\ud83c\udffd"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f590-1f3fd"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

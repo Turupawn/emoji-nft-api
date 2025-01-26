@@ -1,1 +1,19 @@
-{"name":"Emoji#704","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/704.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/704.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Blowfish \ud83d\udc21",
+    "description": "Blowfish",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/704.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udc21"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f421"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#3374","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3374.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3374.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person With Crown Medium Skin Tone \ud83e\udec5\ud83c\udffd",
+    "description": "Person With Crown Medium Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3374.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\udec5\ud83c\udffd"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1fac5-1f3fd"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

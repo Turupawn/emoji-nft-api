@@ -1,1 +1,19 @@
-{"name":"Emoji#1715","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1715.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1715.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Optical Disk \ud83d\udcbf",
+    "description": "Optical Disk",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1715.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udcbf"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4bf"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

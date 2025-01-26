@@ -1,1 +1,19 @@
-{"name":"Emoji#2871","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2871.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2871.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Mechanic Light Skin Tone \ud83e\uddd1\ud83c\udffb\u200d\ud83d\udd27",
+    "description": "Mechanic Light Skin Tone",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2871.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83e\uddd1\ud83c\udffb\u200d\ud83d\udd27"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f9d1-1f3fb-200d-1f527"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

@@ -1,1 +1,19 @@
-{"name":"Emoji#1988","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1988.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1988.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Downcast Face With Sweat \ud83d\ude13",
+    "description": "Downcast Face With Sweat",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1988.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude13"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f613"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

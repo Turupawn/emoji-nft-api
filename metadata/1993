@@ -1,1 +1,19 @@
-{"name":"Emoji#1993","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1993.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1993.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Face Blowing A Kiss \ud83d\ude18",
+    "description": "Face Blowing A Kiss",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1993.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude18"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f618"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

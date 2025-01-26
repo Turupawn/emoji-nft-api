@@ -1,1 +1,19 @@
-{"name":"Emoji#3553","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3553.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3553.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Gear \u2699",
+    "description": "Gear",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3553.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u2699"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "2699"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

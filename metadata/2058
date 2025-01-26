@@ -1,1 +1,19 @@
-{"name":"Emoji#2058","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2058.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2058.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Person Gesturing No \ud83d\ude45",
+    "description": "Person Gesturing No",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/2058.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\ude45"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f645"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

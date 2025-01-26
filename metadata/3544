@@ -1,1 +1,19 @@
-{"name":"Emoji#3544","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3544.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3544.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Recycling Symbol \u267b",
+    "description": "Recycling Symbol",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/3544.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\u267b"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "267b"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}

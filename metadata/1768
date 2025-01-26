@@ -1,1 +1,19 @@
-{"name":"Emoji#1768","description":"todo","image":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1768.png","image_url":"https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1768.png","attributes":[{"trait_type":"todo","value":"todo"}]}
+{
+    "name": "Mobile Phone Off \ud83d\udcf4",
+    "description": "Mobile Phone Off",
+    "image": "https://raw.githubusercontent.com/Turupawn/emoji-nft-api/refs/heads/master/images/1768.png",
+    "attributes": [
+        {
+            "trait_type": "emoji",
+            "value": "\ud83d\udcf4"
+        },
+        {
+            "trait_type": "unicode",
+            "value": "1f4f4"
+        },
+        {
+            "trait_type": "resolution",
+            "value": "512x512"
+        }
+    ]
+}
